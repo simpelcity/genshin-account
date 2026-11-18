@@ -1,0 +1,172 @@
+{
+  "teams": [
+    {
+      "team_name": "Stellar-Conduct",
+      "team_members": [
+        {
+          "id": 10000112,
+          "name": "Escoffier"
+        },
+        {
+          "id": 100000013,
+          "name": "Traveler"
+        },
+        {
+          "id": 10000137,
+          "name": "Valeriy"
+        },
+        {
+          "id": 10000136,
+          "name": "Mitya"
+        }
+      ]
+    },
+    {
+      "team_name": "Explo squad",
+      "team_members": [
+        {
+          "id": 100000013,
+          "name": "Traveler"
+        },
+        {
+          "id": 10000143,
+          "name": "Vesna"
+        },
+        {
+          "id": 10000089,
+          "name": "Furina"
+        },
+        {
+          "id": 10000034,
+          "name": "Noelle"
+        }
+      ]
+    },
+    {
+      "team_name": "Stellar-Swirl",
+      "team_members": [
+        {
+          "id": 100000013,
+          "name": "Traveler"
+        },
+        {
+          "id": 10000143,
+          "name": "Vesna"
+        },
+        {
+          "id": 10000112,
+          "name": "Escoffier"
+        },
+        {
+          "id": 10000003,
+          "name": "Jean"
+        }
+      ]
+    },
+    {
+      "team_name": "Cryo Regisvine",
+      "team_members": [
+        {
+          "id": 100000012,
+          "name": "Traveler"
+        },
+        {
+          "id": 10000003,
+          "name": "Jean"
+        },
+        {
+          "id": 10000079,
+          "name": "Dehya"
+        },
+        {
+          "id": 10000143,
+          "name": "Vesna"
+        }
+      ]
+    },
+    {
+      "team_name": "Dendro Traveler",
+      "team_members": [
+        {
+          "id": 100000010,
+          "name": "Traveler"
+        },
+        {
+          "id": 10000014,
+          "name": "Barbara"
+        },
+        {
+          "id": 10000006,
+          "name": "Lisa"
+        },
+        {
+          "id": 10000042,
+          "name": "Keqing"
+        }
+      ]
+    },
+    {
+      "team_name": "C6 Pyro Traveler",
+      "team_members": [
+        {
+          "id": 10000025,
+          "name": "Xingqiu"
+        },
+        {
+          "id": 10000003,
+          "name": "Jean"
+        },
+        {
+          "id": 10000089,
+          "name": "Furina"
+        },
+        {
+          "id": 100000012,
+          "name": "Traveler"
+        }
+      ]
+    },
+    {
+      "team_name": "Charlie Skirk",
+      "team_members": [
+        {
+          "id": 10000025,
+          "name": "Charlotte"
+        },
+        {
+          "id": 10000114,
+          "name": "Skirk"
+        },
+        {
+          "id": 10000112,
+          "name": "Escoffier"
+        },
+        {
+          "id": 10000089,
+          "name": "Furina"
+        }
+      ]
+    },
+    {
+      "team_name": "Mitya-Conduct",
+      "team_members": [
+        {
+          "id": 100000013,
+          "name": "Traveler"
+        },
+        {
+          "id": 10000136,
+          "name": "Mitya"
+        },
+        {
+          "id": 10000112,
+          "name": "Escoffier"
+        },
+        {
+          "id": 10000137,
+          "name": "Valeriy"
+        }
+      ]
+    }
+  ]
+}
