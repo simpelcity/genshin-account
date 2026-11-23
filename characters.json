@@ -1,5 +1,13 @@
 {
   "last_updated": "2026-11-19T12:18",
+  "need_update": [
+    "cryo-traveler",
+    "escoffier",
+    "skirk",
+    "mitya",
+    "furina",
+    "rosaria"
+  ],
   "characters": [
     {
       "base": {
