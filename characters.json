@@ -857,7 +857,7 @@
         "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a947b/6c4f7f722b0226a1171ec265485de61c.png",
         "name": "Escoffier",
         "element": "Cryo",
-        "fetter": 7,
+        "fetter": 8,
         "level": 80,
         "rarity": 5,
         "actived_constellation_num": 0,
@@ -951,61 +951,11 @@
           ]
         },
         {
-          "id": 77523,
-          "name": "Bard's Arrow Feather",
-          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/70e4bef4acbb4d4789923c3e546aeaf1.png",
+          "id": 32423,
+          "name": "Golden Bird's Shedding",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/602ca7b9fb450ee7df76b2d2ecbfb18e.png",
           "pos": 2,
-          "rarity": 5,
-          "level": 8,
-          "set": {
-            "id": 2150031,
-            "name": "Wanderer's Troupe",
-            "affixes": [
-              {
-                "activation_number": 2,
-                "effect": "Increases Elemental Mastery by 80."
-              },
-              {
-                "activation_number": 4,
-                "effect": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow."
-              }
-            ]
-          },
-          "pos_name": "Plume of Death",
-          "main_property": {
-            "property_type": 5,
-            "value": "152",
-            "times": 0
-          },
-          "sub_property_list": [
-            {
-              "property_type": 22,
-              "value": "7.8%",
-              "times": 0
-            },
-            {
-              "property_type": 6,
-              "value": "4.1%",
-              "times": 0
-            },
-            {
-              "property_type": 3,
-              "value": "8.7%",
-              "times": 1
-            },
-            {
-              "property_type": 2,
-              "value": "209",
-              "times": 0
-            }
-          ]
-        },
-        {
-          "id": 32553,
-          "name": "Golden Era's Prelude",
-          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/623e4ec8f219b8ba5c198444a61ca224.png",
-          "pos": 3,
-          "rarity": 5,
+          "rarity": 4,
           "level": 8,
           "set": {
             "id": 2150321,
@@ -1021,32 +971,82 @@
               }
             ]
           },
-          "pos_name": "Sands of Eon",
+          "pos_name": "Plume of Death",
           "main_property": {
-            "property_type": 6,
-            "value": "22.8%",
+            "property_type": 5,
+            "value": "137",
             "times": 0
           },
           "sub_property_list": [
             {
               "property_type": 3,
-              "value": "5.8%",
+              "value": "4.2%",
               "times": 0
             },
             {
-              "property_type": 8,
+              "property_type": 2,
+              "value": "406",
+              "times": 1
+            },
+            {
+              "property_type": 28,
               "value": "19",
               "times": 0
             },
             {
-              "property_type": 9,
-              "value": "5.1%",
+              "property_type": 22,
+              "value": "5.6%",
+              "times": 0
+            }
+          ]
+        },
+        {
+          "id": 75553,
+          "name": "Gladiator's Longing",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/34b9935fadcb083f8b4db3c4fd915754.png",
+          "pos": 3,
+          "rarity": 5,
+          "level": 8,
+          "set": {
+            "id": 2150011,
+            "name": "Gladiator's Finale",
+            "affixes": [
+              {
+                "activation_number": 2,
+                "effect": "ATK +18%."
+              },
+              {
+                "activation_number": 4,
+                "effect": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%."
+              }
+            ]
+          },
+          "pos_name": "Sands of Eon",
+          "main_property": {
+            "property_type": 23,
+            "value": "25.4%",
+            "times": 0
+          },
+          "sub_property_list": [
+            {
+              "property_type": 20,
+              "value": "7.4%",
+              "times": 1
+            },
+            {
+              "property_type": 2,
+              "value": "239",
               "times": 0
             },
             {
-              "property_type": 5,
-              "value": "33",
-              "times": 1
+              "property_type": 22,
+              "value": "7.0%",
+              "times": 0
+            },
+            {
+              "property_type": 9,
+              "value": "6.6%",
+              "times": 0
             }
           ]
         },
@@ -1101,52 +1101,52 @@
           ]
         },
         {
-          "id": 48432,
-          "name": "Foundryman's Legacy",
-          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/2aece34359e0f99802feced2f25ee01b.png",
+          "id": 45534,
+          "name": "Heavensent Crown",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/9ddda9f5ce2a9b32318a2040598cc8f1.png",
           "pos": 5,
-          "rarity": 4,
-          "level": 12,
+          "rarity": 5,
+          "level": 8,
           "set": {
-            "id": 2150481,
-            "name": "Heart of the Furnace",
+            "id": 2150451,
+            "name": "Celestial Gift",
             "affixes": [
               {
                 "activation_number": 2,
-                "effect": "ATK +18%."
+                "effect": "Energy Recharge +20%."
               },
               {
                 "activation_number": 4,
-                "effect": "Increases the equipping character's ATK by 12% for 12s when they trigger a Stellar Glimmer reaction or deal Stellar Glimmer reaction DMG. Also increases Stellar Glimmer reaction DMG dealt by all nearby party members by 50%. The above effects can trigger even when the equipping character is not on the field, and the DMG bonus from multiple Artifact Sets with the same name do not stack."
+                "effect": "If the equipping character has completed Witch's Homework, after they use an Elemental Skill, they gain \"Light's Guidance\" for 20s: All nearby party members gain a 20% Elemental DMG Bonus corresponding to the equipping character's Elemental Type. The equipping character can trigger this effect while off-field. DMG Bonuses provided by Artifact Sets with the same name do not stack.\\n· When your party has the Hexerei: Secret Rite effect, Light's Guidance is upgraded to \"Mortal Hymn\": All nearby party members gain a 40% Elemental DMG Bonus corresponding to both the equipping character and the current active party member's Elemental Type instead. If both characters have the same Elemental Type, these bonuses will not stack."
               }
             ]
           },
           "pos_name": "Circlet of Logos",
           "main_property": {
-            "property_type": 22,
-            "value": "36.9%",
+            "property_type": 20,
+            "value": "15.2%",
             "times": 0
           },
           "sub_property_list": [
             {
-              "property_type": 8,
-              "value": "13",
-              "times": 0
-            },
-            {
-              "property_type": 6,
-              "value": "3.3%",
-              "times": 0
-            },
-            {
-              "property_type": 3,
-              "value": "9.3%",
+              "property_type": 28,
+              "value": "42",
               "times": 1
             },
             {
-              "property_type": 23,
-              "value": "3.6%",
+              "property_type": 22,
+              "value": "6.2%",
               "times": 0
+            },
+            {
+              "property_type": 2,
+              "value": "209",
+              "times": 0
+            },
+            {
+              "property_type": 23,
+              "value": "12.3%",
+              "times": 1
             }
           ]
         }
@@ -1224,32 +1224,32 @@
         {
           "property_type": 2000,
           "base": "11777",
-          "add": "3644",
-          "final": "15421"
+          "add": "4858",
+          "final": "16635"
         },
         {
           "property_type": 20,
-          "base": "40.5%",
+          "base": "42.0%",
           "add": "",
-          "final": "40.5%"
+          "final": "42.0%"
         },
         {
           "property_type": 2001,
           "base": "869",
-          "add": "473",
-          "final": "1342"
+          "add": "295",
+          "final": "1165"
         },
         {
           "property_type": 22,
-          "base": "136.9%",
+          "base": "134.6%",
           "add": "",
-          "final": "136.9%"
+          "final": "134.6%"
         },
         {
           "property_type": 2002,
           "base": "646",
-          "add": "113",
-          "final": "759"
+          "add": "63",
+          "final": "709"
         },
         {
           "property_type": 26,
@@ -1259,9 +1259,9 @@
         },
         {
           "property_type": 28,
-          "base": "89",
+          "base": "107",
           "add": "",
-          "final": "89"
+          "final": "107"
         },
         {
           "property_type": 27,
@@ -1271,41 +1271,41 @@
         },
         {
           "property_type": 46,
-          "base": "20.6%",
+          "base": "26.8%",
           "add": "",
-          "final": "20.6%"
+          "final": "26.8%"
         },
         {
           "property_type": 23,
-          "base": "136.8%",
+          "base": "148.7%",
           "add": "",
-          "final": "136.8%"
+          "final": "148.7%"
         }
       ],
       "base_properties": [
         {
           "property_type": 2000,
           "base": "11777",
-          "add": "3644",
-          "final": "15421"
+          "add": "4858",
+          "final": "16635"
         },
         {
           "property_type": 2001,
           "base": "869",
-          "add": "473",
-          "final": "1342"
+          "add": "295",
+          "final": "1165"
         },
         {
           "property_type": 2002,
           "base": "646",
-          "add": "113",
-          "final": "759"
+          "add": "63",
+          "final": "709"
         },
         {
           "property_type": 28,
-          "base": "89",
+          "base": "107",
           "add": "",
-          "final": "89"
+          "final": "107"
         },
         {
           "property_type": 999999,
@@ -1317,15 +1317,15 @@
       "extra_properties": [
         {
           "property_type": 20,
-          "base": "40.5%",
+          "base": "42.0%",
           "add": "",
-          "final": "40.5%"
+          "final": "42.0%"
         },
         {
           "property_type": 22,
-          "base": "136.9%",
+          "base": "134.6%",
           "add": "",
-          "final": "136.9%"
+          "final": "134.6%"
         },
         {
           "property_type": 26,
@@ -1341,9 +1341,9 @@
         },
         {
           "property_type": 23,
-          "base": "136.8%",
+          "base": "148.7%",
           "add": "",
-          "final": "136.8%"
+          "final": "148.7%"
         },
         {
           "property_type": 80,
@@ -1421,9 +1421,9 @@
         },
         {
           "property_type": 46,
-          "base": "20.6%",
+          "base": "26.8%",
           "add": "",
-          "final": "20.6%"
+          "final": "26.8%"
         },
         {
           "property_type": 56,
@@ -6519,7 +6519,7 @@
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/06fa300aff19d3a5de4c4ce6048a5404.png",
           "pos": 1,
           "rarity": 5,
-          "level": 12,
+          "level": 18,
           "set": {
             "id": 2150461,
             "name": "Disenchantment in Deep Shadow",
@@ -6537,29 +6537,29 @@
           "pos_name": "Flower of Life",
           "main_property": {
             "property_type": 2,
-            "value": "3155",
+            "value": "4374",
             "times": 0
           },
           "sub_property_list": [
             {
-              "property_type": 3,
-              "value": "11.1%",
-              "times": 1
+              "property_type": 20,
+              "value": "10.5%",
+              "times": 2
+            },
+            {
+              "property_type": 8,
+              "value": "19",
+              "times": 0
+            },
+            {
+              "property_type": 28,
+              "value": "63",
+              "times": 2
             },
             {
               "property_type": 5,
               "value": "19",
               "times": 0
-            },
-            {
-              "property_type": 8,
-              "value": "21",
-              "times": 0
-            },
-            {
-              "property_type": 20,
-              "value": "9.3%",
-              "times": 2
             }
           ]
         },
@@ -6569,7 +6569,7 @@
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/78cfacac47588a8472a40d5c411b4b6d.png",
           "pos": 2,
           "rarity": 5,
-          "level": 12,
+          "level": 20,
           "set": {
             "id": 2150461,
             "name": "Disenchantment in Deep Shadow",
@@ -6587,14 +6587,14 @@
           "pos_name": "Plume of Death",
           "main_property": {
             "property_type": 5,
-            "value": "205",
+            "value": "311",
             "times": 0
           },
           "sub_property_list": [
             {
               "property_type": 2,
-              "value": "209",
-              "times": 0
+              "value": "478",
+              "times": 1
             },
             {
               "property_type": 23,
@@ -6608,18 +6608,18 @@
             },
             {
               "property_type": 3,
-              "value": "10.5%",
-              "times": 1
+              "value": "14.6%",
+              "times": 2
             }
           ]
         },
         {
-          "id": 46452,
+          "id": 46553,
           "name": "Moment That Ceased Upon Waking From Grand Dreams",
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/fb048f9cd39a2dcec3caf61eeba5da3a.png",
           "pos": 3,
-          "rarity": 4,
-          "level": 8,
+          "rarity": 5,
+          "level": 12,
           "set": {
             "id": 2150461,
             "name": "Disenchantment in Deep Shadow",
@@ -6637,24 +6637,24 @@
           "pos_name": "Sands of Eon",
           "main_property": {
             "property_type": 6,
-            "value": "20.6%",
+            "value": "30.8%",
             "times": 0
           },
           "sub_property_list": [
             {
-              "property_type": 28,
-              "value": "13",
-              "times": 0
-            },
-            {
-              "property_type": 5,
-              "value": "11",
+              "property_type": 2,
+              "value": "209",
               "times": 0
             },
             {
               "property_type": 8,
-              "value": "19",
-              "times": 0
+              "value": "39",
+              "times": 1
+            },
+            {
+              "property_type": 5,
+              "value": "29",
+              "times": 1
             },
             {
               "property_type": 3,
@@ -6669,7 +6669,7 @@
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/00068fbfdac5602f0ebd3d6a2b85d0bc.png",
           "pos": 4,
           "rarity": 5,
-          "level": 9,
+          "level": 12,
           "set": {
             "id": 2150031,
             "name": "Wanderer's Troupe",
@@ -6687,14 +6687,14 @@
           "pos_name": "Goblet of Eonothem",
           "main_property": {
             "property_type": 6,
-            "value": "24.8%",
+            "value": "30.8%",
             "times": 0
           },
           "sub_property_list": [
             {
               "property_type": 2,
-              "value": "478",
-              "times": 1
+              "value": "747",
+              "times": 2
             },
             {
               "property_type": 28,
@@ -6719,7 +6719,7 @@
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/96ccb9bdc03619c89825dd424fb8312e.png",
           "pos": 5,
           "rarity": 4,
-          "level": 12,
+          "level": 16,
           "set": {
             "id": 2150461,
             "name": "Disenchantment in Deep Shadow",
@@ -6737,7 +6737,7 @@
           "pos_name": "Circlet of Logos",
           "main_property": {
             "property_type": 22,
-            "value": "36.9%",
+            "value": "46.4%",
             "times": 0
           },
           "sub_property_list": [
@@ -6748,8 +6748,8 @@
             },
             {
               "property_type": 23,
-              "value": "5.2%",
-              "times": 0
+              "value": "9.3%",
+              "times": 1
             },
             {
               "property_type": 9,
@@ -6843,32 +6843,32 @@
         {
           "property_type": 2000,
           "base": "10875",
-          "add": "7273",
-          "final": "18148"
+          "add": "8956",
+          "final": "19831"
         },
         {
           "property_type": 20,
-          "base": "47.4%",
+          "base": "48.6%",
           "add": "",
-          "final": "47.4%"
+          "final": "48.6%"
         },
         {
           "property_type": 2001,
           "base": "823",
-          "add": "994",
-          "final": "1818"
+          "add": "1213",
+          "final": "2036"
         },
         {
           "property_type": 22,
-          "base": "92.3%",
+          "base": "108.8%",
           "add": "",
-          "final": "92.3%"
+          "final": "108.8%"
         },
         {
           "property_type": 2002,
           "base": "683",
-          "add": "88",
-          "final": "770"
+          "add": "124",
+          "final": "807"
         },
         {
           "property_type": 26,
@@ -6878,9 +6878,9 @@
         },
         {
           "property_type": 28,
-          "base": "47",
+          "base": "84",
           "add": "",
-          "final": "47"
+          "final": "84"
         },
         {
           "property_type": 27,
@@ -6896,35 +6896,35 @@
         },
         {
           "property_type": 23,
-          "base": "123.1%",
+          "base": "118.4%",
           "add": "",
-          "final": "123.1%"
+          "final": "118.4%"
         }
       ],
       "base_properties": [
         {
           "property_type": 2000,
           "base": "10875",
-          "add": "7273",
-          "final": "18148"
+          "add": "8956",
+          "final": "19831"
         },
         {
           "property_type": 2001,
           "base": "823",
-          "add": "994",
-          "final": "1818"
+          "add": "1213",
+          "final": "2036"
         },
         {
           "property_type": 2002,
           "base": "683",
-          "add": "88",
-          "final": "770"
+          "add": "124",
+          "final": "807"
         },
         {
           "property_type": 28,
-          "base": "47",
+          "base": "84",
           "add": "",
-          "final": "47"
+          "final": "84"
         },
         {
           "property_type": 999999,
@@ -6936,15 +6936,15 @@
       "extra_properties": [
         {
           "property_type": 20,
-          "base": "47.4%",
+          "base": "48.6%",
           "add": "",
-          "final": "47.4%"
+          "final": "48.6%"
         },
         {
           "property_type": 22,
-          "base": "92.3%",
+          "base": "108.8%",
           "add": "",
-          "final": "92.3%"
+          "final": "108.8%"
         },
         {
           "property_type": 26,
@@ -6960,9 +6960,9 @@
         },
         {
           "property_type": 23,
-          "base": "123.1%",
+          "base": "118.4%",
           "add": "",
-          "final": "123.1%"
+          "final": "118.4%"
         },
         {
           "property_type": 80,
@@ -7350,12 +7350,12 @@
       },
       "relics": [
         {
-          "id": 48442,
+          "id": 48543,
           "name": "Foundryman's Conjecture",
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/09729586ce0f78f5111f9ee8d25eb431.png",
           "pos": 1,
-          "rarity": 4,
-          "level": 8,
+          "rarity": 5,
+          "level": 12,
           "set": {
             "id": 2150481,
             "name": "Heart of the Furnace",
@@ -7373,39 +7373,84 @@
           "pos_name": "Flower of Life",
           "main_property": {
             "property_type": 2,
-            "value": "2108",
+            "value": "3155",
             "times": 0
           },
           "sub_property_list": [
             {
-              "property_type": 20,
-              "value": "2.5%",
-              "times": 0
-            },
-            {
-              "property_type": 5,
-              "value": "14",
+              "property_type": 22,
+              "value": "6.2%",
               "times": 0
             },
             {
               "property_type": 6,
-              "value": "4.2%",
-              "times": 0
+              "value": "10.5%",
+              "times": 1
             },
             {
-              "property_type": 9,
-              "value": "4.1%",
+              "property_type": 3,
+              "value": "9.9%",
+              "times": 1
+            },
+            {
+              "property_type": 23,
+              "value": "6.5%",
               "times": 0
             }
           ]
         },
         {
-          "id": 48423,
-          "name": "Foundryman's Observation",
-          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/6d43279928ae731e4199ff123ecd210e.png",
+          "id": 75523,
+          "name": "Gladiator's Destiny",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/5f120cdac0fc7783d0ba6d1452818d5d.png",
           "pos": 2,
-          "rarity": 4,
-          "level": 8,
+          "rarity": 5,
+          "level": 0,
+          "set": {
+            "id": 2150011,
+            "name": "Gladiator's Finale",
+            "affixes": [
+              {
+                "activation_number": 2,
+                "effect": "ATK +18%."
+              },
+              {
+                "activation_number": 4,
+                "effect": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%."
+              }
+            ]
+          },
+          "pos_name": "Plume of Death",
+          "main_property": {
+            "property_type": 5,
+            "value": "47",
+            "times": 0
+          },
+          "sub_property_list": [
+            {
+              "property_type": 20,
+              "value": "2.7%",
+              "times": 0
+            },
+            {
+              "property_type": 6,
+              "value": "5.8%",
+              "times": 0
+            },
+            {
+              "property_type": 8,
+              "value": "21",
+              "times": 0
+            }
+          ]
+        },
+        {
+          "id": 48553,
+          "name": "Foundryman's Calculus",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/0119db4ca0f7c650686e2da11b9c6a1d.png",
+          "pos": 3,
+          "rarity": 5,
+          "level": 12,
           "set": {
             "id": 2150481,
             "name": "Heart of the Furnace",
@@ -7420,87 +7465,37 @@
               }
             ]
           },
-          "pos_name": "Plume of Death",
+          "pos_name": "Sands of Eon",
           "main_property": {
-            "property_type": 5,
-            "value": "137",
+            "property_type": 6,
+            "value": "30.8%",
             "times": 0
           },
           "sub_property_list": [
             {
-              "property_type": 6,
-              "value": "7.9%",
+              "property_type": 23,
+              "value": "5.2%",
+              "times": 0
+            },
+            {
+              "property_type": 5,
+              "value": "31",
               "times": 1
             },
             {
               "property_type": 2,
-              "value": "215",
-              "times": 0
+              "value": "448",
+              "times": 1
             },
             {
               "property_type": 20,
-              "value": "2.5%",
-              "times": 0
-            },
-            {
-              "property_type": 22,
-              "value": "5.6%",
+              "value": "3.5%",
               "times": 0
             }
           ]
         },
         {
-          "id": 47452,
-          "name": "Time Gifted Unto You",
-          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/f378887dafcdfd8b72457765732a0828.png",
-          "pos": 3,
-          "rarity": 4,
-          "level": 11,
-          "set": {
-            "id": 2150471,
-            "name": "Scarlet Proof",
-            "affixes": [
-              {
-                "activation_number": 2,
-                "effect": "ATK +18%."
-              },
-              {
-                "activation_number": 4,
-                "effect": "Increases the equipping character's CRIT Rate by 16%, and their Stellar Swirl reaction DMG dealt by 40%, for 10s after they trigger a Stellar Swirl reaction."
-              }
-            ]
-          },
-          "pos_name": "Sands of Eon",
-          "main_property": {
-            "property_type": 6,
-            "value": "25.9%",
-            "times": 0
-          },
-          "sub_property_list": [
-            {
-              "property_type": 5,
-              "value": "11",
-              "times": 0
-            },
-            {
-              "property_type": 22,
-              "value": "5.6%",
-              "times": 0
-            },
-            {
-              "property_type": 2,
-              "value": "167",
-              "times": 0
-            },
-            {
-              "property_type": 8,
-              "value": "13",
-              "times": 0
-            }
-          ]
-        },
-        {
-          "id": 59412,
+          "id": 59413,
           "name": "Exile's Goblet",
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7847bfdeab60c072ec09b17462505cdc.png",
           "pos": 4,
@@ -7528,73 +7523,73 @@
           },
           "sub_property_list": [
             {
-              "property_type": 6,
-              "value": "3.3%",
+              "property_type": 2,
+              "value": "215",
+              "times": 0
+            },
+            {
+              "property_type": 22,
+              "value": "4.4%",
               "times": 0
             },
             {
               "property_type": 8,
-              "value": "19",
-              "times": 0
+              "value": "28",
+              "times": 1
             },
             {
-              "property_type": 23,
-              "value": "4.1%",
-              "times": 0
-            },
-            {
-              "property_type": 9,
-              "value": "4.7%",
+              "property_type": 20,
+              "value": "2.8%",
               "times": 0
             }
           ]
         },
         {
-          "id": 47432,
-          "name": "Testament to Your Faith",
-          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/11eeed27d2d7fbb0ab34f03c87325688.png",
+          "id": 77533,
+          "name": "Conductor's Top Hat",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83903a2b1f0da3e6aeab6328089c9595.png",
           "pos": 5,
-          "rarity": 4,
-          "level": 9,
+          "rarity": 5,
+          "level": 4,
           "set": {
-            "id": 2150471,
-            "name": "Scarlet Proof",
+            "id": 2150031,
+            "name": "Wanderer's Troupe",
             "affixes": [
               {
                 "activation_number": 2,
-                "effect": "ATK +18%."
+                "effect": "Increases Elemental Mastery by 80."
               },
               {
                 "activation_number": 4,
-                "effect": "Increases the equipping character's CRIT Rate by 16%, and their Stellar Swirl reaction DMG dealt by 40%, for 10s after they trigger a Stellar Swirl reaction."
+                "effect": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow."
               }
             ]
           },
           "pos_name": "Circlet of Logos",
           "main_property": {
             "property_type": 22,
-            "value": "29.8%",
+            "value": "19.9%",
             "times": 0
           },
           "sub_property_list": [
             {
-              "property_type": 8,
-              "value": "13",
+              "property_type": 9,
+              "value": "5.8%",
               "times": 0
             },
             {
-              "property_type": 5,
-              "value": "11",
+              "property_type": 28,
+              "value": "23",
               "times": 0
             },
             {
               "property_type": 6,
-              "value": "3.7%",
+              "value": "4.1%",
               "times": 0
             },
             {
-              "property_type": 20,
-              "value": "2.2%",
+              "property_type": 2,
+              "value": "209",
               "times": 0
             }
           ]
@@ -7673,32 +7668,32 @@
         {
           "property_type": 2000,
           "base": "9501",
-          "add": "2490",
-          "final": "11991"
+          "add": "4969",
+          "final": "14469"
         },
         {
           "property_type": 20,
-          "base": "32.3%",
+          "base": "34.1%",
           "add": "",
-          "final": "32.3%"
+          "final": "34.1%"
         },
         {
           "property_type": 2001,
           "base": "864",
-          "add": "873",
-          "final": "1737"
+          "add": "676",
+          "final": "1541"
         },
         {
           "property_type": 22,
-          "base": "110.2%",
+          "base": "99.7%",
           "add": "",
-          "final": "110.2%"
+          "final": "99.7%"
         },
         {
           "property_type": 2002,
           "base": "617",
-          "add": "98",
-          "final": "715"
+          "add": "85",
+          "final": "701"
         },
         {
           "property_type": 26,
@@ -7708,9 +7703,9 @@
         },
         {
           "property_type": 28,
-          "base": "0",
+          "base": "23",
           "add": "",
-          "final": "0"
+          "final": "23"
         },
         {
           "property_type": 27,
@@ -7726,35 +7721,35 @@
         },
         {
           "property_type": 23,
-          "base": "104.1%",
+          "base": "111.7%",
           "add": "",
-          "final": "104.1%"
+          "final": "111.7%"
         }
       ],
       "base_properties": [
         {
           "property_type": 2000,
           "base": "9501",
-          "add": "2490",
-          "final": "11991"
+          "add": "4969",
+          "final": "14469"
         },
         {
           "property_type": 2001,
           "base": "864",
-          "add": "873",
-          "final": "1737"
+          "add": "676",
+          "final": "1541"
         },
         {
           "property_type": 2002,
           "base": "617",
-          "add": "98",
-          "final": "715"
+          "add": "85",
+          "final": "701"
         },
         {
           "property_type": 28,
-          "base": "0",
+          "base": "23",
           "add": "",
-          "final": "0"
+          "final": "23"
         },
         {
           "property_type": 999999,
@@ -7766,15 +7761,15 @@
       "extra_properties": [
         {
           "property_type": 20,
-          "base": "32.3%",
+          "base": "34.1%",
           "add": "",
-          "final": "32.3%"
+          "final": "34.1%"
         },
         {
           "property_type": 22,
-          "base": "110.2%",
+          "base": "99.7%",
           "add": "",
-          "final": "110.2%"
+          "final": "99.7%"
         },
         {
           "property_type": 26,
@@ -7790,9 +7785,9 @@
         },
         {
           "property_type": 23,
-          "base": "104.1%",
+          "base": "111.7%",
           "add": "",
-          "final": "104.1%"
+          "final": "111.7%"
         },
         {
           "property_type": 80,
@@ -24015,8 +24010,8 @@
         "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/a024f93489bf998b23dd8a41746bbc17.png",
         "name": "Mitya",
         "element": "Electro",
-        "fetter": 4,
-        "level": 79,
+        "fetter": 5,
+        "level": 84,
         "rarity": 5,
         "actived_constellation_num": 1,
         "image": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/image_7/3737799e7624da61da147e5727774470.png",
@@ -24028,7 +24023,7 @@
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/ec4643eca7890833b5b415f7ad5dc79b.png",
           "type": 10,
           "rarity": 5,
-          "level": 70,
+          "level": 75,
           "affix_level": 1,
           "name": "Starsealed Edict"
         }
@@ -24039,8 +24034,8 @@
         "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/ec4643eca7890833b5b415f7ad5dc79b.png",
         "type": 10,
         "rarity": 5,
-        "level": 70,
-        "promote_level": 4,
+        "level": 75,
+        "promote_level": 5,
         "type_name": "Catalyst",
         "desc": "A hefty tome containing the Royal Energy Commission's internal rules and procedures, with numerous entries dating back many years.",
         "affix_level": 1,
@@ -24048,23 +24043,23 @@
           "property_type": 4,
           "base": "",
           "add": "",
-          "final": "408"
+          "final": "457"
         },
         "sub_property": {
           "property_type": 22,
           "base": "",
           "add": "",
-          "final": "72.7%"
+          "final": "76.6%"
         }
       },
       "relics": [
         {
-          "id": 77544,
+          "id": 77543,
           "name": "Troupe's Dawnlight",
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/5ff2da2140ec40936c57a7e3c00368c8.png",
           "pos": 1,
           "rarity": 5,
-          "level": 10,
+          "level": 8,
           "set": {
             "id": 2150031,
             "name": "Wanderer's Troupe",
@@ -24082,29 +24077,29 @@
           "pos_name": "Flower of Life",
           "main_property": {
             "property_type": 2,
-            "value": "2749",
+            "value": "2342",
             "times": 0
           },
           "sub_property_list": [
             {
               "property_type": 22,
-              "value": "12.4%",
+              "value": "11.7%",
               "times": 1
+            },
+            {
+              "property_type": 3,
+              "value": "5.8%",
+              "times": 0
             },
             {
               "property_type": 28,
-              "value": "19",
+              "value": "21",
               "times": 0
             },
             {
-              "property_type": 5,
-              "value": "16",
+              "property_type": 20,
+              "value": "3.5%",
               "times": 0
-            },
-            {
-              "property_type": 8,
-              "value": "42",
-              "times": 1
             }
           ]
         },
@@ -24381,33 +24376,33 @@
       "selected_properties": [
         {
           "property_type": 2000,
-          "base": "10183",
-          "add": "3918",
-          "final": "14100"
+          "base": "11142",
+          "add": "4200",
+          "final": "15342"
         },
         {
           "property_type": 20,
-          "base": "26.6%",
+          "base": "30.1%",
           "add": "",
-          "final": "26.6%"
+          "final": "30.1%"
         },
         {
           "property_type": 2001,
-          "base": "638",
-          "add": "211",
-          "final": "849"
+          "base": "709",
+          "add": "201",
+          "final": "910"
         },
         {
           "property_type": 22,
-          "base": "203.5%",
+          "base": "216.2%",
           "add": "",
-          "final": "203.5%"
+          "final": "216.2%"
         },
         {
           "property_type": 2002,
-          "base": "693",
-          "add": "244",
-          "final": "937"
+          "base": "758",
+          "add": "218",
+          "final": "976"
         },
         {
           "property_type": 26,
@@ -24417,9 +24412,9 @@
         },
         {
           "property_type": 28,
-          "base": "452",
+          "base": "455",
           "add": "",
-          "final": "452"
+          "final": "455"
         },
         {
           "property_type": 27,
@@ -24443,27 +24438,27 @@
       "base_properties": [
         {
           "property_type": 2000,
-          "base": "10183",
-          "add": "3918",
-          "final": "14100"
+          "base": "11142",
+          "add": "4200",
+          "final": "15342"
         },
         {
           "property_type": 2001,
-          "base": "638",
-          "add": "211",
-          "final": "849"
+          "base": "709",
+          "add": "201",
+          "final": "910"
         },
         {
           "property_type": 2002,
-          "base": "693",
-          "add": "244",
-          "final": "937"
+          "base": "758",
+          "add": "218",
+          "final": "976"
         },
         {
           "property_type": 28,
-          "base": "452",
+          "base": "455",
           "add": "",
-          "final": "452"
+          "final": "455"
         },
         {
           "property_type": 999999,
@@ -24475,15 +24470,15 @@
       "extra_properties": [
         {
           "property_type": 20,
-          "base": "26.6%",
+          "base": "30.1%",
           "add": "",
-          "final": "26.6%"
+          "final": "30.1%"
         },
         {
           "property_type": 22,
-          "base": "203.5%",
+          "base": "216.2%",
           "add": "",
-          "final": "203.5%"
+          "final": "216.2%"
         },
         {
           "property_type": 26,
@@ -24670,28 +24665,28 @@
         {
           "skill_id": 11362,
           "skill_type": 1,
-          "level": 5,
+          "level": 7,
           "desc": "Conducts a theoretically relatively safe experiment at a theoretically relatively safe yield, dealing <color=#FFACFFFF>AoE Electro DMG</color> and creating a <color=#FFD780FF>{LINK#N11360002}Detection Core{/LINK}</color> in different ways depending on whether the Skill is tapped or held.\\n\\nTapping the Elemental Skill <color=#FFD780FF>Principle: Variable Detection</color> again within 6s after using it changes the <color=#FFD780FF>Detection Core</color>'s state. The Detection Core's state can be changed in this way every 1.5s.",
           "skill_affix_list": [
             {
               "name": "Tap Skill DMG",
-              "value": "120.2%"
+              "value": "136.1%"
             },
             {
               "name": "Hold Skill DMG",
-              "value": "171.7%"
+              "value": "194.4%"
             },
             {
               "name": "Steady State Core DMG",
-              "value": "95.4%"
+              "value": "108.0%"
             },
             {
               "name": "Steady State Core Gradient Beacon Consumption DMG",
-              "value": "106.0% Elemental Mastery"
+              "value": "120.0% Elemental Mastery"
             },
             {
               "name": "Steady State Core Detonation DMG",
-              "value": "121.9% Elemental Mastery/Beacon"
+              "value": "138.0% Elemental Mastery/Beacon"
             },
             {
               "name": "Detection Core Duration",
@@ -24714,12 +24709,12 @@
         {
           "skill_id": 11364,
           "skill_type": 1,
-          "level": 3,
+          "level": 4,
           "desc": "Let the elements burst forth like inspiration itself! Deals <color=#FFACFFFF>AoE Electro DMG</color> and creates 3 <color=#FFD780FF>{LINK#N11360001}Gradient Beacons{/LINK}</color>.",
           "skill_affix_list": [
             {
               "name": "Skill DMG",
-              "value": "383.6% ATK+767.3% Elemental Mastery"
+              "value": "417.0% ATK+834.0% Elemental Mastery"
             },
             {
               "name": "Gradient Beacons Generated",
@@ -24927,51 +24922,51 @@
           ]
         },
         {
-          "id": 59422,
-          "name": "Exile's Feather",
-          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1738ca88f6afa4f1d645e8afb214a7ed.png",
+          "id": 77523,
+          "name": "Bard's Arrow Feather",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/70e4bef4acbb4d4789923c3e546aeaf1.png",
           "pos": 2,
-          "rarity": 4,
+          "rarity": 5,
           "level": 8,
           "set": {
-            "id": 2100091,
-            "name": "The Exile",
+            "id": 2150031,
+            "name": "Wanderer's Troupe",
             "affixes": [
               {
                 "activation_number": 2,
-                "effect": "Energy Recharge +20%"
+                "effect": "Increases Elemental Mastery by 80."
               },
               {
                 "activation_number": 4,
-                "effect": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack."
+                "effect": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow."
               }
             ]
           },
           "pos_name": "Plume of Death",
           "main_property": {
             "property_type": 5,
-            "value": "137",
+            "value": "152",
             "times": 0
           },
           "sub_property_list": [
             {
-              "property_type": 8,
-              "value": "13",
+              "property_type": 22,
+              "value": "7.8%",
               "times": 0
             },
             {
-              "property_type": 23,
-              "value": "4.7%",
+              "property_type": 6,
+              "value": "4.1%",
               "times": 0
             },
             {
               "property_type": 3,
-              "value": "4.2%",
-              "times": 0
+              "value": "8.7%",
+              "times": 1
             },
             {
-              "property_type": 9,
-              "value": "4.7%",
+              "property_type": 2,
+              "value": "209",
               "times": 0
             }
           ]
@@ -25077,51 +25072,46 @@
           ]
         },
         {
-          "id": 59432,
-          "name": "Exile's Circlet",
-          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/22faf0f5c42ac3652ea2c4a1ca38ac05.png",
+          "id": 77533,
+          "name": "Conductor's Top Hat",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83903a2b1f0da3e6aeab6328089c9595.png",
           "pos": 5,
-          "rarity": 4,
-          "level": 8,
+          "rarity": 5,
+          "level": 0,
           "set": {
-            "id": 2100091,
-            "name": "The Exile",
+            "id": 2150031,
+            "name": "Wanderer's Troupe",
             "affixes": [
               {
                 "activation_number": 2,
-                "effect": "Energy Recharge +20%"
+                "effect": "Increases Elemental Mastery by 80."
               },
               {
                 "activation_number": 4,
-                "effect": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack."
+                "effect": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow."
               }
             ]
           },
           "pos_name": "Circlet of Logos",
           "main_property": {
             "property_type": 22,
-            "value": "27.4%",
+            "value": "9.3%",
             "times": 0
           },
           "sub_property_list": [
             {
-              "property_type": 20,
-              "value": "2.5%",
+              "property_type": 6,
+              "value": "4.1%",
               "times": 0
             },
             {
-              "property_type": 23,
-              "value": "3.6%",
-              "times": 0
-            },
-            {
-              "property_type": 5,
-              "value": "16",
+              "property_type": 2,
+              "value": "209",
               "times": 0
             },
             {
               "property_type": 8,
-              "value": "17",
+              "value": "21",
               "times": 0
             }
           ]
@@ -25200,32 +25190,32 @@
         {
           "property_type": 2000,
           "base": "11712",
-          "add": "8443",
-          "final": "20155"
+          "add": "9393",
+          "final": "21105"
         },
         {
           "property_type": 20,
-          "base": "17.1%",
+          "base": "14.6%",
           "add": "",
-          "final": "17.1%"
+          "final": "14.6%"
         },
         {
           "property_type": 2001,
           "base": "594",
-          "add": "222",
-          "final": "816"
+          "add": "270",
+          "final": "864"
         },
         {
           "property_type": 22,
-          "base": "172.6%",
+          "base": "162.3%",
           "add": "",
-          "final": "172.6%"
+          "final": "162.3%"
         },
         {
           "property_type": 2002,
           "base": "532",
-          "add": "94",
-          "final": "626"
+          "add": "60",
+          "final": "592"
         },
         {
           "property_type": 26,
@@ -25235,9 +25225,9 @@
         },
         {
           "property_type": 28,
-          "base": "61",
+          "base": "141",
           "add": "",
-          "final": "61"
+          "final": "141"
         },
         {
           "property_type": 27,
@@ -25253,35 +25243,35 @@
         },
         {
           "property_type": 23,
-          "base": "138.0%",
+          "base": "109.7%",
           "add": "",
-          "final": "138.0%"
+          "final": "109.7%"
         }
       ],
       "base_properties": [
         {
           "property_type": 2000,
           "base": "11712",
-          "add": "8443",
-          "final": "20155"
+          "add": "9393",
+          "final": "21105"
         },
         {
           "property_type": 2001,
           "base": "594",
-          "add": "222",
-          "final": "816"
+          "add": "270",
+          "final": "864"
         },
         {
           "property_type": 2002,
           "base": "532",
-          "add": "94",
-          "final": "626"
+          "add": "60",
+          "final": "592"
         },
         {
           "property_type": 28,
-          "base": "61",
+          "base": "141",
           "add": "",
-          "final": "61"
+          "final": "141"
         },
         {
           "property_type": 999999,
@@ -25293,15 +25283,15 @@
       "extra_properties": [
         {
           "property_type": 20,
-          "base": "17.1%",
+          "base": "14.6%",
           "add": "",
-          "final": "17.1%"
+          "final": "14.6%"
         },
         {
           "property_type": 22,
-          "base": "172.6%",
+          "base": "162.3%",
           "add": "",
-          "final": "172.6%"
+          "final": "162.3%"
         },
         {
           "property_type": 26,
@@ -25317,9 +25307,9 @@
         },
         {
           "property_type": 23,
-          "base": "138.0%",
+          "base": "109.7%",
           "add": "",
-          "final": "138.0%"
+          "final": "109.7%"
         },
         {
           "property_type": 80,
@@ -32864,52 +32854,47 @@
           ]
         },
         {
-          "id": 45534,
-          "name": "Heavensent Crown",
-          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/9ddda9f5ce2a9b32318a2040598cc8f1.png",
+          "id": 31533,
+          "name": "Veteran's Visage",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/09542a9f1e2f248f9e473776e477f0a8.png",
           "pos": 5,
           "rarity": 5,
-          "level": 8,
+          "level": 0,
           "set": {
-            "id": 2150451,
-            "name": "Celestial Gift",
+            "id": 2150311,
+            "name": "Marechaussee Hunter",
             "affixes": [
               {
                 "activation_number": 2,
-                "effect": "Energy Recharge +20%."
+                "effect": "Normal and Charged Attack DMG +15%"
               },
               {
                 "activation_number": 4,
-                "effect": "If the equipping character has completed Witch's Homework, after they use an Elemental Skill, they gain \"Light's Guidance\" for 20s: All nearby party members gain a 20% Elemental DMG Bonus corresponding to the equipping character's Elemental Type. The equipping character can trigger this effect while off-field. DMG Bonuses provided by Artifact Sets with the same name do not stack.\\n· When your party has the Hexerei: Secret Rite effect, Light's Guidance is upgraded to \"Mortal Hymn\": All nearby party members gain a 40% Elemental DMG Bonus corresponding to both the equipping character and the current active party member's Elemental Type instead. If both characters have the same Elemental Type, these bonuses will not stack."
+                "effect": "When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks."
               }
             ]
           },
           "pos_name": "Circlet of Logos",
           "main_property": {
             "property_type": 20,
-            "value": "15.2%",
+            "value": "4.7%",
             "times": 0
           },
           "sub_property_list": [
             {
               "property_type": 28,
-              "value": "42",
-              "times": 1
-            },
-            {
-              "property_type": 22,
-              "value": "6.2%",
+              "value": "16",
               "times": 0
             },
             {
-              "property_type": 2,
-              "value": "209",
+              "property_type": 5,
+              "value": "16",
               "times": 0
             },
             {
-              "property_type": 23,
-              "value": "12.3%",
-              "times": 1
+              "property_type": 8,
+              "value": "19",
+              "times": 0
             }
           ]
         }
@@ -32993,32 +32978,32 @@
         {
           "property_type": 2000,
           "base": "8096",
-          "add": "3170",
-          "final": "11266"
+          "add": "2961",
+          "final": "11057"
         },
         {
           "property_type": 20,
-          "base": "20.2%",
+          "base": "9.7%",
           "add": "",
-          "final": "20.2%"
+          "final": "9.7%"
         },
         {
           "property_type": 2001,
           "base": "477",
-          "add": "265",
-          "final": "742"
+          "add": "280",
+          "final": "758"
         },
         {
           "property_type": 22,
-          "base": "61.7%",
+          "base": "55.4%",
           "add": "",
-          "final": "61.7%"
+          "final": "55.4%"
         },
         {
           "property_type": 2002,
           "base": "468",
-          "add": "61",
-          "final": "529"
+          "add": "80",
+          "final": "548"
         },
         {
           "property_type": 26,
@@ -33028,9 +33013,9 @@
         },
         {
           "property_type": 28,
-          "base": "84",
+          "base": "58",
           "add": "",
-          "final": "84"
+          "final": "58"
         },
         {
           "property_type": 27,
@@ -33046,35 +33031,35 @@
         },
         {
           "property_type": 23,
-          "base": "159.8%",
+          "base": "147.5%",
           "add": "",
-          "final": "159.8%"
+          "final": "147.5%"
         }
       ],
       "base_properties": [
         {
           "property_type": 2000,
           "base": "8096",
-          "add": "3170",
-          "final": "11266"
+          "add": "2961",
+          "final": "11057"
         },
         {
           "property_type": 2001,
           "base": "477",
-          "add": "265",
-          "final": "742"
+          "add": "280",
+          "final": "758"
         },
         {
           "property_type": 2002,
           "base": "468",
-          "add": "61",
-          "final": "529"
+          "add": "80",
+          "final": "548"
         },
         {
           "property_type": 28,
-          "base": "84",
+          "base": "58",
           "add": "",
-          "final": "84"
+          "final": "58"
         },
         {
           "property_type": 999999,
@@ -33086,15 +33071,15 @@
       "extra_properties": [
         {
           "property_type": 20,
-          "base": "20.2%",
+          "base": "9.7%",
           "add": "",
-          "final": "20.2%"
+          "final": "9.7%"
         },
         {
           "property_type": 22,
-          "base": "61.7%",
+          "base": "55.4%",
           "add": "",
-          "final": "61.7%"
+          "final": "55.4%"
         },
         {
           "property_type": 26,
@@ -33110,9 +33095,9 @@
         },
         {
           "property_type": 23,
-          "base": "159.8%",
+          "base": "147.5%",
           "add": "",
-          "final": "159.8%"
+          "final": "147.5%"
         },
         {
           "property_type": 80,
