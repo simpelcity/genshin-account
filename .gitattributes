@@ -1,2 +1,2 @@
 # *.json linguist-language=JSON
-*.json linguist-detectable
+*.json linguist-detectable=true
