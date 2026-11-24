@@ -7342,15 +7342,15 @@
       },
       "relics": [
         {
-          "id": 48543,
-          "name": "Foundryman's Conjecture",
-          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/09729586ce0f78f5111f9ee8d25eb431.png",
+          "id": 46544,
+          "name": "Iridescence That Ceased Amidst Glory",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/06fa300aff19d3a5de4c4ce6048a5404.png",
           "pos": 1,
           "rarity": 5,
           "level": 12,
           "set": {
-            "id": 2150481,
-            "name": "Heart of the Furnace",
+            "id": 2150461,
+            "name": "Disenchantment in Deep Shadow",
             "affixes": [
               {
                 "activation_number": 2,
@@ -7358,7 +7358,7 @@
               },
               {
                 "activation_number": 4,
-                "effect": "Increases the equipping character's ATK by 12% for 12s when they trigger a Stellar Glimmer reaction or deal Stellar Glimmer reaction DMG. Also increases Stellar Glimmer reaction DMG dealt by all nearby party members by 50%. The above effects can trigger even when the equipping character is not on the field, and the DMG bonus from multiple Artifact Sets with the same name do not stack."
+                "effect": "Increases Superconduct Reaction DMG by 80% and Stellar-Conduct Reaction DMG by 40%. When the wielder attacks opponents affected by Superconduct or Stellar-Conduct, this attack's CRIT Rate is increased by 16%."
               }
             ]
           },
@@ -7370,68 +7370,73 @@
           },
           "sub_property_list": [
             {
-              "property_type": 22,
-              "value": "6.2%",
-              "times": 0
-            },
-            {
-              "property_type": 6,
-              "value": "10.5%",
-              "times": 1
-            },
-            {
               "property_type": 3,
-              "value": "9.9%",
+              "value": "11.1%",
               "times": 1
             },
             {
-              "property_type": 23,
-              "value": "6.5%",
+              "property_type": 5,
+              "value": "19",
               "times": 0
+            },
+            {
+              "property_type": 8,
+              "value": "21",
+              "times": 0
+            },
+            {
+              "property_type": 20,
+              "value": "9.3%",
+              "times": 2
             }
           ]
         },
         {
-          "id": 75523,
-          "name": "Gladiator's Destiny",
-          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/5f120cdac0fc7783d0ba6d1452818d5d.png",
+          "id": 31524,
+          "name": "Masterpiece's Overture",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cb025bb6ec2c1a00ee120de2bed4535b.png",
           "pos": 2,
           "rarity": 5,
-          "level": 0,
+          "level": 8,
           "set": {
-            "id": 2150011,
-            "name": "Gladiator's Finale",
+            "id": 2150311,
+            "name": "Marechaussee Hunter",
             "affixes": [
               {
                 "activation_number": 2,
-                "effect": "ATK +18%."
+                "effect": "Normal and Charged Attack DMG +15%"
               },
               {
                 "activation_number": 4,
-                "effect": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%."
+                "effect": "When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks."
               }
             ]
           },
           "pos_name": "Plume of Death",
           "main_property": {
             "property_type": 5,
-            "value": "47",
+            "value": "152",
             "times": 0
           },
           "sub_property_list": [
             {
+              "property_type": 2,
+              "value": "478",
+              "times": 1
+            },
+            {
               "property_type": 20,
-              "value": "2.7%",
+              "value": "3.9%",
               "times": 0
             },
             {
               "property_type": 6,
-              "value": "5.8%",
-              "times": 0
+              "value": "8.7%",
+              "times": 1
             },
             {
-              "property_type": 8,
-              "value": "21",
+              "property_type": 23,
+              "value": "6.5%",
               "times": 0
             }
           ]
@@ -7542,7 +7547,7 @@
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83903a2b1f0da3e6aeab6328089c9595.png",
           "pos": 5,
           "rarity": 5,
-          "level": 4,
+          "level": 11,
           "set": {
             "id": 2150031,
             "name": "Wanderer's Troupe",
@@ -7560,7 +7565,7 @@
           "pos_name": "Circlet of Logos",
           "main_property": {
             "property_type": 22,
-            "value": "19.9%",
+            "value": "38.4%",
             "times": 0
           },
           "sub_property_list": [
@@ -7571,8 +7576,8 @@
             },
             {
               "property_type": 28,
-              "value": "23",
-              "times": 0
+              "value": "44",
+              "times": 1
             },
             {
               "property_type": 6,
@@ -7660,26 +7665,26 @@
         {
           "property_type": 2000,
           "base": "9501",
-          "add": "4969",
-          "final": "14469"
+          "add": "5558",
+          "final": "15059"
         },
         {
           "property_type": 20,
-          "base": "34.1%",
+          "base": "44.6%",
           "add": "",
-          "final": "34.1%"
+          "final": "44.6%"
         },
         {
           "property_type": 2001,
           "base": "864",
-          "add": "676",
-          "final": "1541"
+          "add": "580",
+          "final": "1444"
         },
         {
           "property_type": 22,
-          "base": "99.7%",
+          "base": "112.0%",
           "add": "",
-          "final": "99.7%"
+          "final": "112.0%"
         },
         {
           "property_type": 2002,
@@ -7695,9 +7700,9 @@
         },
         {
           "property_type": 28,
-          "base": "23",
+          "base": "44",
           "add": "",
-          "final": "23"
+          "final": "44"
         },
         {
           "property_type": 27,
@@ -7722,14 +7727,14 @@
         {
           "property_type": 2000,
           "base": "9501",
-          "add": "4969",
-          "final": "14469"
+          "add": "5558",
+          "final": "15059"
         },
         {
           "property_type": 2001,
           "base": "864",
-          "add": "676",
-          "final": "1541"
+          "add": "580",
+          "final": "1444"
         },
         {
           "property_type": 2002,
@@ -7739,9 +7744,9 @@
         },
         {
           "property_type": 28,
-          "base": "23",
+          "base": "44",
           "add": "",
-          "final": "23"
+          "final": "44"
         },
         {
           "property_type": 999999,
@@ -7753,15 +7758,15 @@
       "extra_properties": [
         {
           "property_type": 20,
-          "base": "34.1%",
+          "base": "44.6%",
           "add": "",
-          "final": "34.1%"
+          "final": "44.6%"
         },
         {
           "property_type": 22,
-          "base": "99.7%",
+          "base": "112.0%",
           "add": "",
-          "final": "99.7%"
+          "final": "112.0%"
         },
         {
           "property_type": 26,
@@ -24002,8 +24007,8 @@
         "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/a024f93489bf998b23dd8a41746bbc17.png",
         "name": "Mitya",
         "element": "Electro",
-        "fetter": 5,
-        "level": 84,
+        "fetter": 6,
+        "level": 86,
         "rarity": 5,
         "actived_constellation_num": 1,
         "image": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/image_7/3737799e7624da61da147e5727774470.png",
@@ -24015,7 +24020,7 @@
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/ec4643eca7890833b5b415f7ad5dc79b.png",
           "type": 10,
           "rarity": 5,
-          "level": 75,
+          "level": 83,
           "affix_level": 1,
           "name": "Starsealed Edict"
         }
@@ -24026,8 +24031,8 @@
         "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/ec4643eca7890833b5b415f7ad5dc79b.png",
         "type": 10,
         "rarity": 5,
-        "level": 75,
-        "promote_level": 5,
+        "level": 83,
+        "promote_level": 6,
         "type_name": "Catalyst",
         "desc": "A hefty tome containing the Royal Energy Commission's internal rules and procedures, with numerous entries dating back many years.",
         "affix_level": 1,
@@ -24035,13 +24040,13 @@
           "property_type": 4,
           "base": "",
           "add": "",
-          "final": "457"
+          "final": "516"
         },
         "sub_property": {
           "property_type": 22,
           "base": "",
           "add": "",
-          "final": "76.6%"
+          "final": "80.4%"
         }
       },
       "relics": [
@@ -24246,15 +24251,15 @@
           ]
         },
         {
-          "id": 47432,
-          "name": "Testament to Your Faith",
-          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/11eeed27d2d7fbb0ab34f03c87325688.png",
+          "id": 75534,
+          "name": "Gladiator's Triumphus",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/69750e95511b6aed7919f73b1d568ccd.png",
           "pos": 5,
-          "rarity": 4,
+          "rarity": 5,
           "level": 12,
           "set": {
-            "id": 2150471,
-            "name": "Scarlet Proof",
+            "id": 2150011,
+            "name": "Gladiator's Finale",
             "affixes": [
               {
                 "activation_number": 2,
@@ -24262,36 +24267,36 @@
               },
               {
                 "activation_number": 4,
-                "effect": "Increases the equipping character's CRIT Rate by 16%, and their Stellar Swirl reaction DMG dealt by 40%, for 10s after they trigger a Stellar Swirl reaction."
+                "effect": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%."
               }
             ]
           },
           "pos_name": "Circlet of Logos",
           "main_property": {
             "property_type": 20,
-            "value": "18.5%",
+            "value": "20.5%",
             "times": 0
           },
           "sub_property_list": [
             {
-              "property_type": 8,
-              "value": "17",
-              "times": 0
+              "property_type": 6,
+              "value": "9.9%",
+              "times": 1
             },
             {
               "property_type": 22,
-              "value": "5.6%",
+              "value": "6.2%",
               "times": 0
             },
             {
-              "property_type": 9,
-              "value": "5.8%",
+              "property_type": 28,
+              "value": "16",
               "times": 0
             },
             {
-              "property_type": 2,
-              "value": "406",
-              "times": 1
+              "property_type": 8,
+              "value": "58",
+              "times": 2
             }
           ]
         }
@@ -24368,33 +24373,33 @@
       "selected_properties": [
         {
           "property_type": 2000,
-          "base": "11142",
-          "add": "4200",
-          "final": "15342"
+          "base": "11306",
+          "add": "3811",
+          "final": "15116"
         },
         {
           "property_type": 20,
-          "base": "30.1%",
+          "base": "32.1%",
           "add": "",
-          "final": "30.1%"
+          "final": "32.1%"
         },
         {
           "property_type": 2001,
-          "base": "709",
-          "add": "201",
-          "final": "910"
+          "base": "772",
+          "add": "284",
+          "final": "1056"
         },
         {
           "property_type": 22,
-          "base": "216.2%",
+          "base": "220.7%",
           "add": "",
-          "final": "216.2%"
+          "final": "220.7%"
         },
         {
           "property_type": 2002,
-          "base": "758",
-          "add": "218",
-          "final": "976"
+          "base": "769",
+          "add": "217",
+          "final": "986"
         },
         {
           "property_type": 26,
@@ -24404,9 +24409,9 @@
         },
         {
           "property_type": 28,
-          "base": "455",
+          "base": "471",
           "add": "",
-          "final": "455"
+          "final": "471"
         },
         {
           "property_type": 27,
@@ -24430,27 +24435,27 @@
       "base_properties": [
         {
           "property_type": 2000,
-          "base": "11142",
-          "add": "4200",
-          "final": "15342"
+          "base": "11306",
+          "add": "3811",
+          "final": "15116"
         },
         {
           "property_type": 2001,
-          "base": "709",
-          "add": "201",
-          "final": "910"
+          "base": "772",
+          "add": "284",
+          "final": "1056"
         },
         {
           "property_type": 2002,
-          "base": "758",
-          "add": "218",
-          "final": "976"
+          "base": "769",
+          "add": "217",
+          "final": "986"
         },
         {
           "property_type": 28,
-          "base": "455",
+          "base": "471",
           "add": "",
-          "final": "455"
+          "final": "471"
         },
         {
           "property_type": 999999,
@@ -24462,15 +24467,15 @@
       "extra_properties": [
         {
           "property_type": 20,
-          "base": "30.1%",
+          "base": "32.1%",
           "add": "",
-          "final": "30.1%"
+          "final": "32.1%"
         },
         {
           "property_type": 22,
-          "base": "216.2%",
+          "base": "220.7%",
           "add": "",
-          "final": "216.2%"
+          "final": "220.7%"
         },
         {
           "property_type": 26,
@@ -26482,7 +26487,7 @@
         "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/2cd496faf46d4727430723b840e61881.png",
         "name": "Valeriy",
         "element": "Electro",
-        "fetter": 4,
+        "fetter": 5,
         "level": 70,
         "rarity": 4,
         "actived_constellation_num": 6,
@@ -26676,51 +26681,51 @@
           ]
         },
         {
-          "id": 43513,
-          "name": "Moonlit Offering's Libation",
-          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/21e57db986ee92926afef6d4591b8833.png",
+          "id": 46513,
+          "name": "Ovations That Ceased Upon Festivity",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/c28506a99c203909248bf259774760c4.png",
           "pos": 4,
           "rarity": 5,
-          "level": 6,
+          "level": 12,
           "set": {
-            "id": 2150431,
-            "name": "Aubade of Morningstar and Moon",
+            "id": 2150461,
+            "name": "Disenchantment in Deep Shadow",
             "affixes": [
               {
                 "activation_number": 2,
-                "effect": "Increases Elemental Mastery by 80."
+                "effect": "ATK +18%."
               },
               {
                 "activation_number": 4,
-                "effect": "When the equipping character is off-field, Lunar Reaction DMG is increased by 20%. When the party's Moonsign Level is at least Ascendant Gleam, Lunar Reaction DMG will be further increased by 40%. This effect will disappear after the equipping character is active for 3s."
+                "effect": "Increases Superconduct Reaction DMG by 80% and Stellar-Conduct Reaction DMG by 40%. When the wielder attacks opponents affected by Superconduct or Stellar-Conduct, this attack's CRIT Rate is increased by 16%."
               }
             ]
           },
           "pos_name": "Goblet of Eonothem",
           "main_property": {
             "property_type": 6,
-            "value": "18.9%",
+            "value": "30.8%",
             "times": 0
           },
           "sub_property_list": [
             {
+              "property_type": 2,
+              "value": "508",
+              "times": 1
+            },
+            {
               "property_type": 5,
-              "value": "18",
+              "value": "29",
+              "times": 1
+            },
+            {
+              "property_type": 28,
+              "value": "19",
               "times": 0
             },
             {
               "property_type": 8,
               "value": "19",
-              "times": 0
-            },
-            {
-              "property_type": 2,
-              "value": "299",
-              "times": 0
-            },
-            {
-              "property_type": 28,
-              "value": "23",
               "times": 0
             }
           ]
@@ -26849,8 +26854,8 @@
         {
           "property_type": 2000,
           "base": "7729",
-          "add": "3570",
-          "final": "11299"
+          "add": "3779",
+          "final": "11508"
         },
         {
           "property_type": 20,
@@ -26861,8 +26866,8 @@
         {
           "property_type": 2001,
           "base": "626",
-          "add": "1100",
-          "final": "1726"
+          "add": "1186",
+          "final": "1812"
         },
         {
           "property_type": 22,
@@ -26884,9 +26889,9 @@
         },
         {
           "property_type": 28,
-          "base": "82",
+          "base": "77",
           "add": "",
-          "final": "82"
+          "final": "77"
         },
         {
           "property_type": 27,
@@ -26911,14 +26916,14 @@
         {
           "property_type": 2000,
           "base": "7729",
-          "add": "3570",
-          "final": "11299"
+          "add": "3779",
+          "final": "11508"
         },
         {
           "property_type": 2001,
           "base": "626",
-          "add": "1100",
-          "final": "1726"
+          "add": "1186",
+          "final": "1812"
         },
         {
           "property_type": 2002,
@@ -26928,9 +26933,9 @@
         },
         {
           "property_type": 28,
-          "base": "82",
+          "base": "77",
           "add": "",
-          "final": "82"
+          "final": "77"
         },
         {
           "property_type": 999999,
