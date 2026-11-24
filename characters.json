@@ -1,11 +1,5 @@
 {
   "last_updated": "2026-11-19T12:18",
-  "need_update": [
-    "skirk/stats/artifacts",
-    "mitya/level/weapon/talents/stats/flower-artifact/circlet-artifact",
-    "furina/stats/plume-artifact/circlet-artifact",
-    "rosaria/stats/circlet-artifact"
-  ],
   "characters": [
     {
       "base": {

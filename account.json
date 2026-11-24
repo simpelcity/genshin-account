@@ -7,5 +7,11 @@
   "region_name": "Europe Server",
   "days_active": 68,
   "achievements": 463,
-  "spiral_abyss": "8-3"
+  "spiral_abyss": "8-3",
+  "need_update": [
+    "skirk/stats/artifacts",
+    "mitya/level/weapon/talents/stats/flower-artifact/circlet-artifact",
+    "furina/stats/plume-artifact/circlet-artifact",
+    "rosaria/stats/circlet-artifact"
+  ]
 }
