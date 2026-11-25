@@ -24008,7 +24008,7 @@
         "name": "Mitya",
         "element": "Electro",
         "fetter": 6,
-        "level": 86,
+        "level": 87,
         "rarity": 5,
         "actived_constellation_num": 1,
         "image": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/image_7/3737799e7624da61da147e5727774470.png",
@@ -24020,7 +24020,7 @@
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/ec4643eca7890833b5b415f7ad5dc79b.png",
           "type": 10,
           "rarity": 5,
-          "level": 83,
+          "level": 84,
           "affix_level": 1,
           "name": "Starsealed Edict"
         }
@@ -24031,7 +24031,7 @@
         "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/ec4643eca7890833b5b415f7ad5dc79b.png",
         "type": 10,
         "rarity": 5,
-        "level": 83,
+        "level": 84,
         "promote_level": 6,
         "type_name": "Catalyst",
         "desc": "A hefty tome containing the Royal Energy Commission's internal rules and procedures, with numerous entries dating back many years.",
@@ -24040,7 +24040,7 @@
           "property_type": 4,
           "base": "",
           "add": "",
-          "final": "516"
+          "final": "520"
         },
         "sub_property": {
           "property_type": 22,
@@ -24056,7 +24056,7 @@
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/5ff2da2140ec40936c57a7e3c00368c8.png",
           "pos": 1,
           "rarity": 5,
-          "level": 8,
+          "level": 18,
           "set": {
             "id": 2150031,
             "name": "Wanderer's Troupe",
@@ -24074,7 +24074,7 @@
           "pos_name": "Flower of Life",
           "main_property": {
             "property_type": 2,
-            "value": "2342",
+            "value": "4374",
             "times": 0
           },
           "sub_property_list": [
@@ -24085,8 +24085,8 @@
             },
             {
               "property_type": 3,
-              "value": "5.8%",
-              "times": 0
+              "value": "10.5%",
+              "times": 1
             },
             {
               "property_type": 28,
@@ -24095,8 +24095,8 @@
             },
             {
               "property_type": 20,
-              "value": "3.5%",
-              "times": 0
+              "value": "6.2%",
+              "times": 1
             }
           ]
         },
@@ -24106,7 +24106,7 @@
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f6c8890ea69ba66c882603f03ea20322.png",
           "pos": 2,
           "rarity": 4,
-          "level": 8,
+          "level": 12,
           "set": {
             "id": 2150261,
             "name": "Gilded Dreams",
@@ -24124,7 +24124,7 @@
           "pos_name": "Plume of Death",
           "main_property": {
             "property_type": 5,
-            "value": "137",
+            "value": "185",
             "times": 0
           },
           "sub_property_list": [
@@ -24145,8 +24145,8 @@
             },
             {
               "property_type": 20,
-              "value": "3.1%",
-              "times": 0
+              "value": "5.9%",
+              "times": 1
             }
           ]
         },
@@ -24256,7 +24256,7 @@
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/69750e95511b6aed7919f73b1d568ccd.png",
           "pos": 5,
           "rarity": 5,
-          "level": 12,
+          "level": 20,
           "set": {
             "id": 2150011,
             "name": "Gladiator's Finale",
@@ -24274,7 +24274,7 @@
           "pos_name": "Circlet of Logos",
           "main_property": {
             "property_type": 20,
-            "value": "20.5%",
+            "value": "31.1%",
             "times": 0
           },
           "sub_property_list": [
@@ -24290,13 +24290,13 @@
             },
             {
               "property_type": 28,
-              "value": "16",
-              "times": 0
+              "value": "40",
+              "times": 1
             },
             {
               "property_type": 8,
-              "value": "58",
-              "times": 2
+              "value": "76",
+              "times": 3
             }
           ]
         }
@@ -24373,21 +24373,21 @@
       "selected_properties": [
         {
           "property_type": 2000,
-          "base": "11306",
-          "add": "3811",
-          "final": "15116"
+          "base": "11387",
+          "add": "6381",
+          "final": "17769"
         },
         {
           "property_type": 20,
-          "base": "32.1%",
+          "base": "48.2%",
           "add": "",
-          "final": "32.1%"
+          "final": "48.2%"
         },
         {
           "property_type": 2001,
-          "base": "772",
-          "add": "284",
-          "final": "1056"
+          "base": "778",
+          "add": "333",
+          "final": "1110"
         },
         {
           "property_type": 22,
@@ -24397,9 +24397,9 @@
         },
         {
           "property_type": 2002,
-          "base": "769",
-          "add": "217",
-          "final": "986"
+          "base": "775",
+          "add": "236",
+          "final": "1011"
         },
         {
           "property_type": 26,
@@ -24409,9 +24409,9 @@
         },
         {
           "property_type": 28,
-          "base": "471",
+          "base": "494",
           "add": "",
-          "final": "471"
+          "final": "494"
         },
         {
           "property_type": 27,
@@ -24435,27 +24435,27 @@
       "base_properties": [
         {
           "property_type": 2000,
-          "base": "11306",
-          "add": "3811",
-          "final": "15116"
+          "base": "11387",
+          "add": "6381",
+          "final": "17769"
         },
         {
           "property_type": 2001,
-          "base": "772",
-          "add": "284",
-          "final": "1056"
+          "base": "778",
+          "add": "333",
+          "final": "1110"
         },
         {
           "property_type": 2002,
-          "base": "769",
-          "add": "217",
-          "final": "986"
+          "base": "775",
+          "add": "236",
+          "final": "1011"
         },
         {
           "property_type": 28,
-          "base": "471",
+          "base": "494",
           "add": "",
-          "final": "471"
+          "final": "494"
         },
         {
           "property_type": 999999,
@@ -24467,9 +24467,9 @@
       "extra_properties": [
         {
           "property_type": 20,
-          "base": "32.1%",
+          "base": "48.2%",
           "add": "",
-          "final": "32.1%"
+          "final": "48.2%"
         },
         {
           "property_type": 22,
