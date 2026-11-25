@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T21:03",
+  "last_updated": "2026-11-25T10:25",
   "characters": [
     {
       "base": {
@@ -31870,7 +31870,7 @@
         "fetter": 1,
         "level": 1,
         "rarity": 4,
-        "actived_constellation_num": 0,
+        "actived_constellation_num": 1,
         "image": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/image_7/ce6448d7d2bf3dc034ad698fa60917ef.png",
         "is_chosen": false,
         "side_icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f727/6ad4b9ea1bc906f7ba8fb547ba3215c6.png",
@@ -32113,7 +32113,7 @@
           "name": "Additional Investment",
           "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f721/318242be2bc5b39ccd039dc02f55dd73.png",
           "effect": "The number of After-Sales Service Rounds created by <color=#FFD780FF>Troubleshooter Shots</color> is increased by 1.",
-          "is_actived": false,
+          "is_actived": true,
           "pos": 1,
           "is_enhanced": false,
           "enhanced_effect": "",
@@ -36497,6 +36497,1129 @@
           ],
           "sub_property_list": [
             3
+          ]
+        },
+        "custom_properties": null,
+        "has_set_recommend_prop": false
+      },
+      "weapon_skin": null,
+      "unlock_tps": false
+    },
+    {
+      "base": {
+        "id": 10000113,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a947b/0b3127bb721214a48b20001c64ab727a.png",
+        "name": "Ifa",
+        "element": "Anemo",
+        "fetter": 1,
+        "level": 1,
+        "rarity": 4,
+        "actived_constellation_num": 0,
+        "image": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/image_7/ed9f437e5072713c54ae6829fc1bdfbb.png",
+        "is_chosen": false,
+        "side_icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a94b6/7c02c5e8f3b4855159e8a6de31b54f7b.png",
+        "weapon_type": 10,
+        "weapon": {
+          "id": 14302,
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/aff08755a2149ffb6c0fa7d1d189a222.png",
+          "type": 10,
+          "rarity": 3,
+          "level": 1,
+          "affix_level": 5,
+          "name": "Thrilling Tales of Dragon Slayers"
+        }
+      },
+      "weapon": {
+        "id": 14302,
+        "name": "Thrilling Tales of Dragon Slayers",
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/aff08755a2149ffb6c0fa7d1d189a222.png",
+        "type": 10,
+        "rarity": 3,
+        "level": 1,
+        "promote_level": 0,
+        "type_name": "Catalyst",
+        "desc": "A fictional story of a band of five heroes who go off on a dragon hunt. It is poorly written and structurally incoherent. Its value lies in the many lessons that can be learned from failure.",
+        "affix_level": 5,
+        "main_property": {
+          "property_type": 4,
+          "base": "",
+          "add": "",
+          "final": "39"
+        },
+        "sub_property": {
+          "property_type": 3,
+          "base": "",
+          "add": "",
+          "final": "7.7%"
+        }
+      },
+      "relics": [],
+      "constellations": [
+        {
+          "id": 1131,
+          "name": "Vitiferous Elixir's Concoction",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a94b4/19a7a06e4bdae7643f86ce411e4afa95.png",
+          "effect": "When {LINK#N11130001}<color=#FFD780FF>Supporting Fire</color>{/LINK} hits an opponent, it will restore 6 Energy for Ifa. One such Energy restoration can be triggered once every 8s.",
+          "is_actived": false,
+          "pos": 1,
+          "is_enhanced": false,
+          "enhanced_effect": "",
+          "can_enhanced": false
+        },
+        {
+          "id": 1132,
+          "name": "Guiding Spirit of Ballistic Prayer",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a94b4/a8a78e3a7dce8c510e1eb974fc84adb3.png",
+          "effect": "When Ifa is in the Nightsoul's Blessing state, every Nightsoul point the party has above a total of 60 will grant Ifa 4 additional {LINK#N11130002}<color=#FFD780FF>Rescue Essentials</color>{/LINK} points.\\nAdditionally, Ifa's Rescue Essentials limit is increased by 50.\\nYou must first unlock the Ascension Talent {LINK#P1132101}<color=#FFD780FF>Field Medic's Vision</color>{/LINK}.",
+          "is_actived": false,
+          "pos": 2,
+          "is_enhanced": false,
+          "enhanced_effect": "",
+          "can_enhanced": false
+        },
+        {
+          "id": 1133,
+          "name": "Rebuttal in Negotiations With the Night",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a94b4/53a8a300d7e10324260a0cf908b01b21.png",
+          "effect": "Increases the Level of <color=#FFD780FF>{LINK#S11132}Airborne Disease Prevention{/LINK}</color> by 3.\\nMaximum upgrade level is 15.",
+          "is_actived": false,
+          "pos": 3,
+          "is_enhanced": false,
+          "enhanced_effect": "",
+          "can_enhanced": false
+        },
+        {
+          "id": 1134,
+          "name": "Decayed Vessel's Permutation",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a94b4/3c7df58d7e2d9982ee98278d90bc47d7.png",
+          "effect": "The restraining wind current created by the Elemental Burst <color=#FFD780FF>{LINK#S11135}Compound Sedation Field{/LINK}</color> has its duration extended to 3s.\\nAdditionally, Ifa gains 100 Elemental Mastery for 15s after using his Elemental Burst <color=#FFD780FF>Compound Sedation Field</color>.",
+          "is_actived": false,
+          "pos": 4,
+          "is_enhanced": false,
+          "enhanced_effect": "",
+          "can_enhanced": false
+        },
+        {
+          "id": 1135,
+          "name": "Vow of Universal Coexistence",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a94b4/4a736712aeafc2cb12f02d7ef7cb4e13.png",
+          "effect": "Increases the Level of <color=#FFD780FF>{LINK#S11135}Compound Sedation Field{/LINK}</color> by 3.\\nMaximum upgrade level is 15.",
+          "is_actived": false,
+          "pos": 5,
+          "is_enhanced": false,
+          "enhanced_effect": "",
+          "can_enhanced": false
+        },
+        {
+          "id": 1136,
+          "name": "Oath on a Feathered Knot",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a94b4/23c67f716f4fe2764b8d2d749a72d6c8.png",
+          "effect": "When Ifa uses the Hold version of his {LINK#N11130001}<color=#FFD780FF>Supporting Fire</color>{/LINK}, there is a 50% chance that he will fire an additional Tonicshot that deals 120% of Ifa's ATK as Anemo DMG. This DMG is considered Normal Attack DMG.\\nAdditionally, when he is not in combat, Ifa will consume 20% less Nightsoul points and Phlogiston in his Nightsoul's Blessing state.",
+          "is_actived": false,
+          "pos": 6,
+          "is_enhanced": false,
+          "enhanced_effect": "",
+          "can_enhanced": false
+        }
+      ],
+      "costumes": [],
+      "selected_properties": [
+        {
+          "property_type": 2000,
+          "base": "845",
+          "add": "65",
+          "final": "910"
+        },
+        {
+          "property_type": 20,
+          "base": "5.0%",
+          "add": "",
+          "final": "5.0%"
+        },
+        {
+          "property_type": 2001,
+          "base": "54",
+          "add": "",
+          "final": "54"
+        },
+        {
+          "property_type": 22,
+          "base": "50.0%",
+          "add": "",
+          "final": "50.0%"
+        },
+        {
+          "property_type": 2002,
+          "base": "51",
+          "add": "",
+          "final": "51"
+        },
+        {
+          "property_type": 26,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 28,
+          "base": "0",
+          "add": "",
+          "final": "0"
+        },
+        {
+          "property_type": 27,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 44,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 23,
+          "base": "100.0%",
+          "add": "",
+          "final": "100.0%"
+        }
+      ],
+      "base_properties": [
+        {
+          "property_type": 2000,
+          "base": "845",
+          "add": "65",
+          "final": "910"
+        },
+        {
+          "property_type": 2001,
+          "base": "54",
+          "add": "",
+          "final": "54"
+        },
+        {
+          "property_type": 2002,
+          "base": "51",
+          "add": "",
+          "final": "51"
+        },
+        {
+          "property_type": 28,
+          "base": "0",
+          "add": "",
+          "final": "0"
+        },
+        {
+          "property_type": 999999,
+          "base": "240",
+          "add": "",
+          "final": "240"
+        }
+      ],
+      "extra_properties": [
+        {
+          "property_type": 20,
+          "base": "5.0%",
+          "add": "",
+          "final": "5.0%"
+        },
+        {
+          "property_type": 22,
+          "base": "50.0%",
+          "add": "",
+          "final": "50.0%"
+        },
+        {
+          "property_type": 26,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 27,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 23,
+          "base": "100.0%",
+          "add": "",
+          "final": "100.0%"
+        },
+        {
+          "property_type": 80,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 81,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        }
+      ],
+      "element_properties": [
+        {
+          "property_type": 40,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 50,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 42,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 52,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 43,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 53,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 41,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 51,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 44,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 54,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 46,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 56,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 45,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 55,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 30,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 29,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": 11131,
+          "skill_type": 1,
+          "level": 1,
+          "desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 attacks, dealing <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina and fires off a shot, dealing <color=#80FFD7FF>AoE Anemo DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges towards the ground from mid-air, damaging all opponents along the path. Deals <color=#80FFD7FF>AoE Anemo DMG</color> upon impact with the ground.",
+          "skill_affix_list": [
+            {
+              "name": "1-Hit DMG",
+              "value": "53.6%"
+            },
+            {
+              "name": "2-Hit DMG",
+              "value": "47.5%"
+            },
+            {
+              "name": "3-Hit DMG",
+              "value": "74.8%"
+            },
+            {
+              "name": "Charged Attack DMG",
+              "value": "147.0%"
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "50.0"
+            },
+            {
+              "name": "Plunge DMG",
+              "value": "56.8%"
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "value": "114%/142%"
+            }
+          ],
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f71a/2c014e6053c4f0d032e1d1ff0c6de0e1.png",
+          "is_unlock": true,
+          "name": "Rite of Dispelling Winds",
+          "is_enhanced": false,
+          "enhanced_desc": "",
+          "before_enhanced_skill_attr_index": [],
+          "after_enhanced_skill_attr_index": [],
+          "can_enhanced": false
+        },
+        {
+          "skill_id": 11132,
+          "skill_type": 1,
+          "level": 1,
+          "desc": "It's time for the real bash bros to step up! Ifa calls Cacucu in as backup.\\nAfter using this skill, Ifa gains 80 Nightsoul points and enters the {LINK#N11130003}<color=#FFD780FF>Nightsoul's Blessing</color>{/LINK} state. In the Nightsoul's Blessing state, Ifa will hover with Cacucu's help. When he uses Normal Attacks in this state, he will use different kinds of {LINK#N11130001}<color=#FFD780FF>Supporting Fire</color>{/LINK} depending on whether you Tap or Hold, firing Tonicshots that are capable of healing all party members.\\n\\nAdditionally, Holding the Elemental Skill <color=#FFD780FF>Airborne Disease Prevention</color> while Ifa is in Nightsoul's Blessing will cause him to use a Nightsoul-aligned Plunging Attack. Letting go of the skill button will interrupt this Plunging Attack to maintain his hover. If Ifa lands due to this Plunging Attack, his Nightsoul's Blessing state will end.",
+          "skill_affix_list": [
+            {
+              "name": "Tonicshot DMG",
+              "value": "133.4%"
+            },
+            {
+              "name": "Tonicshot Healing On Hit",
+              "value": "20.2% Elemental Mastery+48.1"
+            },
+            {
+              "name": "Nightsoul Point Limit",
+              "value": "80.0"
+            },
+            {
+              "name": "CD",
+              "value": "7.5s"
+            }
+          ],
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a94b2/ca2ccb0863eb85ca0519ce40fe1ef160.png",
+          "is_unlock": true,
+          "name": "Airborne Disease Prevention",
+          "is_enhanced": false,
+          "enhanced_desc": "",
+          "before_enhanced_skill_attr_index": [],
+          "after_enhanced_skill_attr_index": [],
+          "can_enhanced": false
+        },
+        {
+          "skill_id": 11135,
+          "skill_type": 1,
+          "level": 1,
+          "desc": "Fires a Therapeutic Sedative at a (temporarily aggressive) opponent. The sedative will explode on impact, creating a restraining wind current that pulls nearby objects and opponents in while dealing Nightsoul-aligned <color=#80FFD7FF>AoE Anemo DMG</color>.\\nWhen the Therapeutic Sedative hits an opponent affected by <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, it will apply a {LINK#N11130004}<color=#FFD780FF>Sedation Mark</color>{/LINK} to them.",
+          "skill_affix_list": [
+            {
+              "name": "Skill DMG",
+              "value": "508.5%"
+            },
+            {
+              "name": "Sedation Mark DMG",
+              "value": "109.0%"
+            },
+            {
+              "name": "CD",
+              "value": "15.0s"
+            },
+            {
+              "name": "Energy Cost",
+              "value": "60"
+            }
+          ],
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a94b2/84d7fd6cc2853e8ac136e0ee826b3495.png",
+          "is_unlock": true,
+          "name": "Compound Sedation Field",
+          "is_enhanced": false,
+          "enhanced_desc": "",
+          "before_enhanced_skill_attr_index": [],
+          "after_enhanced_skill_attr_index": [],
+          "can_enhanced": false
+        },
+        {
+          "skill_id": 11321,
+          "skill_type": 2,
+          "level": 1,
+          "desc": "When Ifa is in the Nightsoul's Blessing state, every 1 Nightsoul point out of the current total in his entire party will grant him 1 {LINK#N11130002}<color=#FFD780FF>Rescue Essentials</color>{/LINK} point. Rescue Essentials will increase the Swirl, Stellar Swirl, Electro-Charged, and Lunar-Charged reaction DMG dealt by nearby party members.",
+          "skill_affix_list": [],
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a94b4/05613b3cbe14a2ac9d448d8ab4a1f23e.png",
+          "is_unlock": false,
+          "name": "Field Medic's Vision",
+          "is_enhanced": false,
+          "enhanced_desc": "",
+          "before_enhanced_skill_attr_index": [],
+          "after_enhanced_skill_attr_index": [],
+          "can_enhanced": false
+        },
+        {
+          "skill_id": 11322,
+          "skill_type": 2,
+          "level": 1,
+          "desc": "When nearby party members trigger Nightsoul Bursts, Ifa's Elemental Mastery increases by 80 for 10s.",
+          "skill_affix_list": [],
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a94b4/1939717ee289b4a24099af87c311d00a.png",
+          "is_unlock": false,
+          "name": "Mutual Aid Agreement",
+          "is_enhanced": false,
+          "enhanced_desc": "",
+          "before_enhanced_skill_attr_index": [],
+          "after_enhanced_skill_attr_index": [],
+          "can_enhanced": false
+        },
+        {
+          "skill_id": 11323,
+          "skill_type": 2,
+          "level": 1,
+          "desc": "After his Nightsoul points are exhausted, Ifa will switch to consuming Phlogiston to maintain his Nightsoul's Blessing.\\nWhile in an area with Phlogiston Mechanics within Natlan, he can use Nightsoul Transmission: Ifa. When the active character is a certain height in the air, the following will occur when switching to Ifa: Ifa will enter the Nightsoul's Blessing state and gain 32 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own team.",
+          "skill_affix_list": [],
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a94b4/db2c1037f3cbaa6764320d96152b4876.png",
+          "is_unlock": true,
+          "name": "Night Realm's Gift: Focused Emergency Rescue",
+          "is_enhanced": false,
+          "enhanced_desc": "",
+          "before_enhanced_skill_attr_index": [],
+          "after_enhanced_skill_attr_index": [],
+          "can_enhanced": false
+        },
+        {
+          "skill_id": 11325,
+          "skill_type": 2,
+          "level": 1,
+          "desc": "While in an area with Phlogiston Mechanics within Natlan, when the current active party member or indwelt saurian has less than 40% HP, Ifa will consume 10 Phlogiston and restore 40% of their HP. This effect can trigger once every 10s, and does not take effect in Domains, Trounce Domains, or the Spiral Abyss.",
+          "skill_affix_list": [],
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a94b4/5cb85c1ab448d5fb5544b7c1141820da.png",
+          "is_unlock": true,
+          "name": "Tactical Warm Compress Bandaging",
+          "is_enhanced": false,
+          "enhanced_desc": "",
+          "before_enhanced_skill_attr_index": [],
+          "after_enhanced_skill_attr_index": [],
+          "can_enhanced": false
+        }
+      ],
+      "recommend_relic_property": {
+        "recommend_properties": {
+          "sand_main_property_list": [
+            28
+          ],
+          "goblet_main_property_list": [
+            28
+          ],
+          "circlet_main_property_list": [
+            28
+          ],
+          "sub_property_list": [
+            28
+          ]
+        },
+        "custom_properties": null,
+        "has_set_recommend_prop": false
+      },
+      "weapon_skin": null,
+      "unlock_tps": false
+    },
+    {
+      "base": {
+        "id": 10000020,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0a8a2c7373dcc8f2549b645d0c3374b7.png",
+        "name": "Razor",
+        "element": "Electro",
+        "fetter": 1,
+        "level": 1,
+        "rarity": 4,
+        "actived_constellation_num": 0,
+        "image": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/image_7/7f5bb79a8d2626d4fe9866577dba0fa4.png",
+        "is_chosen": false,
+        "side_icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f727/d805cb25bd31bf5863b75a182a58aaad.png",
+        "weapon_type": 11,
+        "weapon": {
+          "id": 12101,
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b1e284917f1ca8330ba929ef8f116aba.png",
+          "type": 11,
+          "rarity": 1,
+          "level": 1,
+          "affix_level": 1,
+          "name": "Waster Greatsword"
+        }
+      },
+      "weapon": {
+        "id": 12101,
+        "name": "Waster Greatsword",
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b1e284917f1ca8330ba929ef8f116aba.png",
+        "type": 11,
+        "rarity": 1,
+        "level": 1,
+        "promote_level": 0,
+        "type_name": "Claymore",
+        "desc": "A sturdy sheet of iron that may be powerful enough to break apart mountains if wielded with enough willpower.",
+        "affix_level": 1,
+        "main_property": {
+          "property_type": 4,
+          "base": "",
+          "add": "",
+          "final": "23"
+        },
+        "sub_property": null
+      },
+      "relics": [],
+      "constellations": [
+        {
+          "id": 201,
+          "name": "Wolf's Instinct",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f721/2fc86ef99d93e035d86b41eb3cf62332.png",
+          "effect": "Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s.",
+          "is_actived": false,
+          "pos": 1,
+          "is_enhanced": false,
+          "enhanced_effect": "",
+          "can_enhanced": false
+        },
+        {
+          "id": 202,
+          "name": "Suppression",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f721/c3f8cf9e651837bcd4831a856b5c542e.png",
+          "effect": "Increases CRIT Rate against opponents with less than 30% HP by 10%.",
+          "is_actived": false,
+          "pos": 2,
+          "is_enhanced": false,
+          "enhanced_effect": "",
+          "can_enhanced": false
+        },
+        {
+          "id": 203,
+          "name": "Soul Companion",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f721/d226686a15172868c766a9217344f445.png",
+          "effect": "Increases the Level of <color=#FFD780FF>Lightning Fang</color> by 3.\\nMaximum upgrade level is 15.",
+          "is_actived": false,
+          "pos": 3,
+          "is_enhanced": false,
+          "enhanced_effect": "",
+          "can_enhanced": false
+        },
+        {
+          "id": 204,
+          "name": "Bite",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f721/9eac69a25904ab422aca2da745c41109.png",
+          "effect": "#When casting <color=#FFD780FF>Claw and Thunder</color> ({LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}), opponents hit will have their DEF decreased by 15% for 7s.",
+          "is_actived": false,
+          "pos": 4,
+          "is_enhanced": false,
+          "enhanced_effect": "",
+          "can_enhanced": false
+        },
+        {
+          "id": 205,
+          "name": "Sharpened Claws",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f721/57870e19acf6173059d06fd2b69dbcd1.png",
+          "effect": "Increases the Level of <color=#FFD780FF>Claw and Thunder</color> by 3.\\nMaximum upgrade level is 15.",
+          "is_actived": false,
+          "pos": 5,
+          "is_enhanced": false,
+          "enhanced_effect": "",
+          "can_enhanced": false
+        },
+        {
+          "id": 206,
+          "name": "Lupus Fulguris",
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f721/a924870db59c6d81def07ac16a656760.png",
+          "effect": "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as <color=#FFACFFFF>Electro DMG</color>.\\nWhen Razor is not using <color=#FFD780FF>Lightning Fang</color>, a lightning strike on an opponent will grant Razor an Electro Sigil for <color=#FFD780FF>Claw and Thunder</color>.",
+          "is_actived": false,
+          "pos": 6,
+          "is_enhanced": false,
+          "enhanced_effect": "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as <color=#FFACFFFF>Electro DMG</color>.\\nWhen Razor is not using <color=#FFD780FF>Lightning Fang</color>, lightning strikes on an opponent will grant 3 Electro Sigils for his Elemental Skill <color=#FFD780FF>Claw and Thunder</color>.\\nAdditionally, when Razor gains Electro Sigils through his Elemental Skill <color=#FFD780FF>Claw and Thunder</color>, he will gain 3 Sigils instead.\\nFor 15s after consuming Electro Sigils, Razor's CRIT Rate is increased by 10% and CRIT DMG by 50%.",
+          "can_enhanced": true
+        }
+      ],
+      "costumes": [],
+      "selected_properties": [
+        {
+          "property_type": 2000,
+          "base": "1003",
+          "add": "",
+          "final": "1003"
+        },
+        {
+          "property_type": 20,
+          "base": "5.0%",
+          "add": "",
+          "final": "5.0%"
+        },
+        {
+          "property_type": 2001,
+          "base": "43",
+          "add": "",
+          "final": "43"
+        },
+        {
+          "property_type": 22,
+          "base": "50.0%",
+          "add": "",
+          "final": "50.0%"
+        },
+        {
+          "property_type": 2002,
+          "base": "63",
+          "add": "",
+          "final": "63"
+        },
+        {
+          "property_type": 26,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 28,
+          "base": "0",
+          "add": "",
+          "final": "0"
+        },
+        {
+          "property_type": 27,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 41,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 23,
+          "base": "100.0%",
+          "add": "",
+          "final": "100.0%"
+        }
+      ],
+      "base_properties": [
+        {
+          "property_type": 2000,
+          "base": "1003",
+          "add": "",
+          "final": "1003"
+        },
+        {
+          "property_type": 2001,
+          "base": "43",
+          "add": "",
+          "final": "43"
+        },
+        {
+          "property_type": 2002,
+          "base": "63",
+          "add": "",
+          "final": "63"
+        },
+        {
+          "property_type": 28,
+          "base": "0",
+          "add": "",
+          "final": "0"
+        },
+        {
+          "property_type": 999999,
+          "base": "240",
+          "add": "",
+          "final": "240"
+        }
+      ],
+      "extra_properties": [
+        {
+          "property_type": 20,
+          "base": "5.0%",
+          "add": "",
+          "final": "5.0%"
+        },
+        {
+          "property_type": 22,
+          "base": "50.0%",
+          "add": "",
+          "final": "50.0%"
+        },
+        {
+          "property_type": 26,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 27,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 23,
+          "base": "100.0%",
+          "add": "",
+          "final": "100.0%"
+        },
+        {
+          "property_type": 80,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 81,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        }
+      ],
+      "element_properties": [
+        {
+          "property_type": 40,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 50,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 42,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 52,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 43,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 53,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 41,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 51,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 44,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 54,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 46,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 56,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 45,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 55,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 30,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        },
+        {
+          "property_type": 29,
+          "base": "0.0%",
+          "add": "",
+          "final": "0.0%"
+        }
+      ],
+      "skills": [
+        {
+          "skill_id": 10201,
+          "skill_type": 1,
+          "level": 1,
+          "desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\\nAt the end of the sequence, performs a more powerful slash. \\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+          "skill_affix_list": [
+            {
+              "name": "1-Hit DMG",
+              "value": "95.9%"
+            },
+            {
+              "name": "2-Hit DMG",
+              "value": "82.6%"
+            },
+            {
+              "name": "3-Hit DMG",
+              "value": "103%"
+            },
+            {
+              "name": "4-Hit DMG",
+              "value": "136%"
+            },
+            {
+              "name": "Charged Attack Cyclic DMG",
+              "value": "62.5%"
+            },
+            {
+              "name": "Charged Attack Final DMG",
+              "value": "113%"
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "40.0/s"
+            },
+            {
+              "name": "Max Duration",
+              "value": "5.0s"
+            },
+            {
+              "name": "Plunge DMG",
+              "value": "82.0%"
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "value": "164%/205%"
+            }
+          ],
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f71a/bf0237fba9d4ab5b47ea86b90711a765.png",
+          "is_unlock": true,
+          "name": "Steel Fang",
+          "is_enhanced": false,
+          "enhanced_desc": "",
+          "before_enhanced_skill_attr_index": [],
+          "after_enhanced_skill_attr_index": [],
+          "can_enhanced": false
+        },
+        {
+          "skill_id": 10202,
+          "skill_type": 1,
+          "level": 1,
+          "desc": "#Hunts his prey using the techniques taught to him by his master and his lupical.\\n\\n<color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color>\\nSwings the Thunder Wolf Claw, dealing <color=#FFACFFFF>Electro DMG</color> to opponents in front of Razor.\\nUpon striking an opponent, Razor will gain an Electro Sigil, which increases his Energy Recharge rate.\\nRazor can have up to 3 Electro Sigils simultaneously, and gaining a new Electro Sigil refreshes their duration.\\n\\n<color=#FFD780FF>Hold</color>\\nGathers Electro energy to unleash a lightning storm over a small AoE, causing massive <color=#FFACFFFF>Electro DMG</color>, and clears all of Razor's Electro Sigils.\\nEach Electro Sigil cleared in this manner will be converted into Energy for Razor.\\n\\n<i>In the moment when lightning strikes, you can sometimes glimpse the look of a predator sizing up his prey deep within Razor's eyes.</i>",
+          "skill_affix_list": [
+            {
+              "name": "#{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press} Skill DMG",
+              "value": "199%"
+            },
+            {
+              "name": "Hold Skill DMG",
+              "value": "295%"
+            },
+            {
+              "name": "Energy Recharge Bonus",
+              "value": "20% per Electro Sigil"
+            },
+            {
+              "name": "Energy Regenerated",
+              "value": "5.0 per Electro Sigil Absorbed"
+            },
+            {
+              "name": "Electro Sigil duration",
+              "value": "18.0s"
+            },
+            {
+              "name": "#{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press} CD",
+              "value": "6.0s"
+            },
+            {
+              "name": "Hold CD",
+              "value": "10.0s"
+            }
+          ],
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f71a/290eee5ffa45d3815be0a9f7b006a2d5.png",
+          "is_unlock": true,
+          "name": "Claw and Thunder",
+          "is_enhanced": false,
+          "enhanced_desc": "",
+          "before_enhanced_skill_attr_index": [],
+          "after_enhanced_skill_attr_index": [],
+          "can_enhanced": false
+        },
+        {
+          "skill_id": 10203,
+          "skill_type": 1,
+          "level": 1,
+          "desc": "Summons the Wolf Within, which deals <color=#FFACFFFF>Electro DMG</color> to all nearby opponents. This clears all of Razor's Electro Sigils, which will be converted into Elemental Energy for him.\\nThe Wolf Within will fight alongside Razor for the skill's duration.\\n\\n<color=#FFD780FF>The Wolf Within</color>\\n·Strikes alongside Razor's normal attacks, dealing <color=#FFACFFFF>Electro DMG</color>.\\n·Raises Razor's ATK SPD and <color=#FFACFFFF>Electro RES</color>.\\n·Causes Razor to be immune to DMG inflicted by the <color=#FFACFFFF>Electro-Charged</color> status.\\n·Disables Razor's Charged Attacks.\\n·Increases Razor's resistance to interruption.\\n\\nThese effects end when Razor leaves the battlefield.\\nWhen Razor leaves the field, a maximum of 10 Energy will be returned to him based off the duration remaining on this skill.\\n\\n<i>The wolf has awoken. The hunt is on.</i>",
+          "skill_affix_list": [
+            {
+              "name": "Burst DMG",
+              "value": "160%"
+            },
+            {
+              "name": "Soul Companion DMG",
+              "value": "24.0% Normal Attack DMG"
+            },
+            {
+              "name": "Normal ATK SPD Bonus",
+              "value": "26%"
+            },
+            {
+              "name": "Electro RES Bonus",
+              "value": "80%"
+            },
+            {
+              "name": "Duration",
+              "value": "15.0s"
+            },
+            {
+              "name": "CD",
+              "value": "20.0s"
+            },
+            {
+              "name": "Energy Cost",
+              "value": "80"
+            }
+          ],
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f71a/0f01a3a9ef442730cb86864303777aca.png",
+          "is_unlock": true,
+          "name": "Lightning Fang",
+          "is_enhanced": false,
+          "enhanced_desc": "",
+          "before_enhanced_skill_attr_index": [],
+          "after_enhanced_skill_attr_index": [],
+          "can_enhanced": false
+        },
+        {
+          "skill_id": 2021,
+          "skill_type": 2,
+          "level": 1,
+          "desc": "Decreases <color=#FFD780FF>Claw and Thunder</color>'s CD by 18%.\\nUsing <color=#FFD780FF>Lightning Fang</color> resets the CD of <color=#FFD780FF>Claw and Thunder</color>.",
+          "skill_affix_list": [],
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f721/b038f7f9b4aebdc2f3e29c5af0374d47.png",
+          "is_unlock": false,
+          "name": "Awakening",
+          "is_enhanced": false,
+          "enhanced_desc": "",
+          "before_enhanced_skill_attr_index": [],
+          "after_enhanced_skill_attr_index": [],
+          "can_enhanced": false
+        },
+        {
+          "skill_id": 2022,
+          "skill_type": 2,
+          "level": 1,
+          "desc": "When Razor's Energy is below 50%, increases Energy Recharge by 30%.",
+          "skill_affix_list": [],
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f721/9d54265a1edef9bd0ab55d16dbafa3ea.png",
+          "is_unlock": false,
+          "name": "Hunger",
+          "is_enhanced": false,
+          "enhanced_desc": "",
+          "before_enhanced_skill_attr_index": [],
+          "after_enhanced_skill_attr_index": [],
+          "can_enhanced": false
+        },
+        {
+          "skill_id": 2051,
+          "skill_type": 3,
+          "level": 1,
+          "desc": "After completing <color=#FFD780FF>Witch's Homework: Of the Little Wolf Pack</color>, Razor will become a <color=#FFD780FF>Hexerei</color> character. When the party includes at least 2 Hexerei characters, you will gain the <color=#FFD780FF>Hexerei: Secret Rite</color> effect, which enhances Hexerei characters.\\nAdditionally, Razor's Elemental Burst <color=#FFD780FF>Lightning Fang</color> is enhanced: <color=#FFD780FF>The Wolf Within</color>'s DMG dealt is increased by 70% of Razor's ATK.\\n\\n<color=#FFD780FF>Hexerei: Secret Rite</color>\\nWhile the Wolf Within summoned by Razor's Elemental Burst <color=#FFD780FF>Lightning Fang</color> is active, if the Electro Sigils from Razor's Elemental Skill <color=#FFD780FF>Claw and Thunder</color> overflow, the Wolf Within will call down a lightning strike on nearby enemies, dealing AoE Electro DMG equal to 150% of Razor's ATK and restoring 7 Energy to Razor. This effect can be triggered once every 1s.",
+          "skill_affix_list": [],
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/692f7dcc/6b310965ca4a01bb76829b6da7f136d9.png",
+          "is_unlock": false,
+          "name": "Witch's Eve Rite: Surge of Lightning",
+          "is_enhanced": false,
+          "enhanced_desc": "After completing <color=#FFD780FF>Witch's Homework: Of the Little Wolf Pack</color>, Razor will become a <color=#FFD780FF>Hexerei</color> character. When the party includes at least 2 Hexerei characters, you will gain the <color=#FFD780FF>Hexerei: Secret Rite</color> effect, which enhances Hexerei characters.\\nAdditionally, Razor's Elemental Burst <color=#FFD780FF>Lightning Fang</color> is enhanced: <color=#FFD780FF>The Wolf Within</color>'s DMG dealt is increased by 70% of Razor's ATK.\\n\\n<color=#FFD780FF>Hexerei: Secret Rite</color>\\nWhile the Wolf Within summoned by Razor's Elemental Burst <color=#FFD780FF>Lightning Fang</color> is active, if the Electro Sigils from Razor's Elemental Skill <color=#FFD780FF>Claw and Thunder</color> overflow, the Wolf Within will call down a lightning strike on nearby enemies, dealing AoE Electro DMG equal to 150% of Razor's ATK and restoring 7 Energy to Razor. This effect can be triggered once every 1s.",
+          "before_enhanced_skill_attr_index": [],
+          "after_enhanced_skill_attr_index": [],
+          "can_enhanced": true
+        },
+        {
+          "skill_id": 2023,
+          "skill_type": 2,
+          "level": 1,
+          "desc": "Decreases sprinting Stamina consumption for your own party members by 20%.\\nNot stackable with Passive Talents that provide the exact same effects.",
+          "skill_affix_list": [],
+          "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f721/4b0da467386c10aedf3192192dc85d0f.png",
+          "is_unlock": true,
+          "name": "Wolvensprint",
+          "is_enhanced": false,
+          "enhanced_desc": "",
+          "before_enhanced_skill_attr_index": [],
+          "after_enhanced_skill_attr_index": [],
+          "can_enhanced": false
+        }
+      ],
+      "recommend_relic_property": {
+        "recommend_properties": {
+          "sand_main_property_list": [
+            6
+          ],
+          "goblet_main_property_list": [
+            30
+          ],
+          "circlet_main_property_list": [
+            20
+          ],
+          "sub_property_list": [
+            20,
+            22,
+            6
           ]
         },
         "custom_properties": null,

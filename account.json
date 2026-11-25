@@ -1,12 +1,13 @@
 {
   "nickname": "Caelia",
   "level": 55,
-  "owned_characters": 41,
+  "owned_characters": 43,
   "user_id": 740082438,
   "region": "os_euro",
   "region_name": "Europe Server",
   "days_active": 73,
-  "achievements": 484,
+  "achievements": 487,
   "spiral_abyss": "11-1",
-  "last_updated": "2026-11-24T21:05"
+  "last_updated": "2026-11-25T10:22",
+  "need_update": []
 }
